@@ -1,0 +1,36 @@
+[
+  {
+    "id": "s_1",
+    "title": "Cloud Computing",
+    "chapters": [
+      {
+        "id": "c_1",
+        "title": "Cloud Fundamentals",
+        "topics": [
+          {"id": "t_1", "title": "Introduction to Cloud Computing", "done": false},
+          {"id": "t_2", "title": "IaaS, PaaS, SaaS", "done": false},
+          {"id": "t_3", "title": "Public, Private, and Hybrid Clouds", "done": false}
+        ]
+      },
+      {
+        "id": "c_2",
+        "title": "AWS Basics",
+        "topics": [
+          {"id": "t_4", "title": "Identity and Access Management (IAM)", "done": false},
+          {"id": "t_5", "title": "Compute Services (EC2)", "done": false},
+          {"id": "t_6", "title": "Storage Services (S3, EBS)", "done": false},
+          {"id": "t_7", "title": "Networking (VPC, Subnets)", "done": false}
+        ]
+      },
+      {
+        "id": "c_3",
+        "title": "Cloud Architecture",
+        "topics": [
+          {"id": "t_8", "title": "High Availability and Fault Tolerance", "done": false},
+          {"id": "t_9", "title": "Scalability and Elasticity", "done": false},
+          {"id": "t_10", "title": "Serverless Computing (Lambda)", "done": false}
+        ]
+      }
+    ]
+  }
+]

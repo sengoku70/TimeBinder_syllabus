@@ -1,0 +1,38 @@
+[
+  {
+    "id": "s_1",
+    "title": "Data Structures & Algorithms",
+    "chapters": [
+      {
+        "id": "c_1",
+        "title": "Basic Data Structures",
+        "topics": [
+          {"id": "t_1", "title": "Arrays and Strings", "done": false},
+          {"id": "t_2", "title": "Linked Lists", "done": false},
+          {"id": "t_3", "title": "Stacks and Queues", "done": false}
+        ]
+      },
+      {
+        "id": "c_2",
+        "title": "Advanced Data Structures",
+        "topics": [
+          {"id": "t_4", "title": "Trees and Binary Search Trees", "done": false},
+          {"id": "t_5", "title": "Heaps and Priority Queues", "done": false},
+          {"id": "t_6", "title": "Hash Tables", "done": false},
+          {"id": "t_7", "title": "Graphs (Representation, BFS, DFS)", "done": false}
+        ]
+      },
+      {
+        "id": "c_3",
+        "title": "Algorithms",
+        "topics": [
+          {"id": "t_8", "title": "Sorting Algorithms", "done": false},
+          {"id": "t_9", "title": "Searching Algorithms (Binary Search)", "done": false},
+          {"id": "t_10", "title": "Recursion and Backtracking", "done": false},
+          {"id": "t_11", "title": "Dynamic Programming", "done": false},
+          {"id": "t_12", "title": "Greedy Algorithms", "done": false}
+        ]
+      }
+    ]
+  }
+]

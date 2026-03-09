@@ -1,0 +1,36 @@
+[
+  {
+    "id": "s_1",
+    "title": "DevOps Practices",
+    "chapters": [
+      {
+        "id": "c_1",
+        "title": "Linux & Scripting",
+        "topics": [
+          {"id": "t_1", "title": "Linux Command Line Basics", "done": false},
+          {"id": "t_2", "title": "File Permissions and Ownership", "done": false},
+          {"id": "t_3", "title": "Bash Scripting", "done": false}
+        ]
+      },
+      {
+        "id": "c_2",
+        "title": "Version Control",
+        "topics": [
+          {"id": "t_4", "title": "Git Basics (Commit, Push, Pull)", "done": false},
+          {"id": "t_5", "title": "Branching and Merging", "done": false},
+          {"id": "t_6", "title": "GitHub/GitLab Workflows", "done": false}
+        ]
+      },
+      {
+        "id": "c_3",
+        "title": "CI/CD & Containerization",
+        "topics": [
+          {"id": "t_7", "title": "Docker Basics", "done": false},
+          {"id": "t_8", "title": "Docker Compose", "done": false},
+          {"id": "t_9", "title": "GitHub Actions / Jenkins Pipeline", "done": false},
+          {"id": "t_10", "title": "Infrastructure as Code (Terraform basics)", "done": false}
+        ]
+      }
+    ]
+  }
+]

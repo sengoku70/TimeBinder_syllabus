@@ -1,0 +1,62 @@
+[
+  {
+    "id": "s_1",
+    "title": "Frontend Development",
+    "chapters": [
+      {
+        "id": "c_1",
+        "title": "HTML & CSS",
+        "topics": [
+          {"id": "t_1", "title": "Semantic HTML", "done": false},
+          {"id": "t_2", "title": "CSS Flexbox & Grid", "done": false},
+          {"id": "t_3", "title": "Responsive Design", "done": false}
+        ]
+      },
+      {
+        "id": "c_2",
+        "title": "JavaScript Basics to Advanced",
+        "topics": [
+          {"id": "t_4", "title": "Variables, Data Types, and Functions", "done": false},
+          {"id": "t_5", "title": "DOM Manipulation", "done": false},
+          {"id": "t_6", "title": "ES6+ Features", "done": false},
+          {"id": "t_7", "title": "Asynchronous JavaScript (Promises, Async/Await)", "done": false}
+        ]
+      },
+      {
+        "id": "c_3",
+        "title": "Frontend Frameworks (React)",
+        "topics": [
+          {"id": "t_8", "title": "Components and Props", "done": false},
+          {"id": "t_9", "title": "State and Lifecycle (Hooks)", "done": false},
+          {"id": "t_10", "title": "Routing", "done": false},
+          {"id": "t_11", "title": "State Management (Redux/Context API)", "done": false}
+        ]
+      }
+    ]
+  },
+  {
+    "id": "s_2",
+    "title": "Backend Development",
+    "chapters": [
+      {
+        "id": "c_4",
+        "title": "Node.js & Express",
+        "topics": [
+          {"id": "t_12", "title": "Node.js Basics", "done": false},
+          {"id": "t_13", "title": "Express Routing and Middleware", "done": false},
+          {"id": "t_14", "title": "RESTful API Design", "done": false},
+          {"id": "t_15", "title": "Authentication and Authorization (JWT)", "done": false}
+        ]
+      },
+      {
+        "id": "c_5",
+        "title": "Databases",
+        "topics": [
+          {"id": "t_16", "title": "SQL Basics (PostgreSQL/MySQL)", "done": false},
+          {"id": "t_17", "title": "NoSQL Basics (MongoDB)", "done": false},
+          {"id": "t_18", "title": "ORMs and ODMs (Mongoose, Prisma)", "done": false}
+        ]
+      }
+    ]
+  }
+]
