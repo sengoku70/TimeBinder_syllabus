@@ -1,36 +1,469 @@
 [
   {
     "id": "s_1",
-    "title": "Data Structures & Algorithms",
+    "title": "Data Structures & Algorithms Mastery",
     "chapters": [
       {
         "id": "c_1",
-        "title": "Basic Data Structures",
+        "title": "Programming Basics & Complexity",
         "topics": [
-          {"id": "t_1", "title": "Arrays and Strings", "done": false},
-          {"id": "t_2", "title": "Linked Lists", "done": false},
-          {"id": "t_3", "title": "Stacks and Queues", "done": false}
+          {
+            "id": "t_1",
+            "title": "Introduction to Algorithms",
+            "done": false
+          },
+          {
+            "id": "t_2",
+            "title": "Asymptotic Notation (Big O, Omega, Theta)",
+            "done": false
+          },
+          {
+            "id": "t_3",
+            "title": "Time and Space Complexity Analysis",
+            "done": false
+          },
+          {
+            "id": "t_4",
+            "title": "Master Theorem for Divide and Conquer",
+            "done": false
+          }
         ]
       },
       {
         "id": "c_2",
-        "title": "Advanced Data Structures",
+        "title": "Mathematics & Bit Manipulation",
         "topics": [
-          {"id": "t_4", "title": "Trees and Binary Search Trees", "done": false},
-          {"id": "t_5", "title": "Heaps and Priority Queues", "done": false},
-          {"id": "t_6", "title": "Hash Tables", "done": false},
-          {"id": "t_7", "title": "Graphs (Representation, BFS, DFS)", "done": false}
+          {
+            "id": "t_5",
+            "title": "Prime Numbers & Sieve of Eratosthenes",
+            "done": false
+          },
+          {
+            "id": "t_6",
+            "title": "GCD & LCM (Euclidean Algorithm)",
+            "done": false
+          },
+          {
+            "id": "t_7",
+            "title": "Modular Arithmetic & Exponentiation",
+            "done": false
+          },
+          {
+            "id": "t_8",
+            "title": "Bitwise Operators (AND, OR, XOR, Shifts)",
+            "done": false
+          },
+          {
+            "id": "t_9",
+            "title": "Counting Set Bits & Properties of XOR",
+            "done": false
+          }
         ]
       },
       {
         "id": "c_3",
-        "title": "Algorithms",
+        "title": "Arrays & Strings",
         "topics": [
-          {"id": "t_8", "title": "Sorting Algorithms", "done": false},
-          {"id": "t_9", "title": "Searching Algorithms (Binary Search)", "done": false},
-          {"id": "t_10", "title": "Recursion and Backtracking", "done": false},
-          {"id": "t_11", "title": "Dynamic Programming", "done": false},
-          {"id": "t_12", "title": "Greedy Algorithms", "done": false}
+          {
+            "id": "t_10",
+            "title": "1D and 2D Arrays",
+            "done": false
+          },
+          {
+            "id": "t_11",
+            "title": "Prefix Sums and Difference Arrays",
+            "done": false
+          },
+          {
+            "id": "t_12",
+            "title": "Two Pointers Technique",
+            "done": false
+          },
+          {
+            "id": "t_13",
+            "title": "Sliding Window (Fixed & Variable Size)",
+            "done": false
+          },
+          {
+            "id": "t_14",
+            "title": "String Basics & Ascii",
+            "done": false
+          },
+          {
+            "id": "t_15",
+            "title": "String Pattern Matching (Rabin-Karp, KMP)",
+            "done": false
+          },
+          {
+            "id": "t_16",
+            "title": "Z-Algorithm",
+            "done": false
+          }
+        ]
+      },
+      {
+        "id": "c_4",
+        "title": "Searching & Sorting",
+        "topics": [
+          {
+            "id": "t_17",
+            "title": "Linear Search",
+            "done": false
+          },
+          {
+            "id": "t_18",
+            "title": "Binary Search (On Arrays and on Answers)",
+            "done": false
+          },
+          {
+            "id": "t_19",
+            "title": "Ternary Search",
+            "done": false
+          },
+          {
+            "id": "t_20",
+            "title": "Bubble, Insertion, and Selection Sort",
+            "done": false
+          },
+          {
+            "id": "t_21",
+            "title": "Merge Sort & Count Inversions",
+            "done": false
+          },
+          {
+            "id": "t_22",
+            "title": "Quick Sort & Quick Select",
+            "done": false
+          },
+          {
+            "id": "t_23",
+            "title": "Heap Sort",
+            "done": false
+          },
+          {
+            "id": "t_24",
+            "title": "Counting Sort & Radix Sort",
+            "done": false
+          }
+        ]
+      },
+      {
+        "id": "c_5",
+        "title": "Linked Lists",
+        "topics": [
+          {
+            "id": "t_25",
+            "title": "Singly Linked List",
+            "done": false
+          },
+          {
+            "id": "t_26",
+            "title": "Doubly Linked List",
+            "done": false
+          },
+          {
+            "id": "t_27",
+            "title": "Circular Linked List",
+            "done": false
+          },
+          {
+            "id": "t_28",
+            "title": "Reversing Linked Lists",
+            "done": false
+          },
+          {
+            "id": "t_29",
+            "title": "Detecting & Removing Cycles (Floyd's)",
+            "done": false
+          }
+        ]
+      },
+      {
+        "id": "c_6",
+        "title": "Stacks & Queues",
+        "topics": [
+          {
+            "id": "t_30",
+            "title": "Stack Implementation (Array & Linked List)",
+            "done": false
+          },
+          {
+            "id": "t_31",
+            "title": "Queue Implementation (Array & Linked List)",
+            "done": false
+          },
+          {
+            "id": "t_32",
+            "title": "Next Greater/Smaller Element",
+            "done": false
+          },
+          {
+            "id": "t_33",
+            "title": "Largest Rectangle in Histogram",
+            "done": false
+          },
+          {
+            "id": "t_34",
+            "title": "Deque (Double Ended Queue)",
+            "done": false
+          },
+          {
+            "id": "t_35",
+            "title": "Sliding Window Maximum",
+            "done": false
+          }
+        ]
+      },
+      {
+        "id": "c_7",
+        "title": "Trees & Binary Search Trees (BST)",
+        "topics": [
+          {
+            "id": "t_36",
+            "title": "Binary Tree Representation",
+            "done": false
+          },
+          {
+            "id": "t_37",
+            "title": "Traversals (Inorder, Preorder, Postorder, Level Order)",
+            "done": false
+          },
+          {
+            "id": "t_38",
+            "title": "Tree Views (Left, Right, Top, Bottom)",
+            "done": false
+          },
+          {
+            "id": "t_39",
+            "title": "Lowest Common Ancestor (LCA)",
+            "done": false
+          },
+          {
+            "id": "t_40",
+            "title": "BST Basics (Search, Insert, Delete)",
+            "done": false
+          },
+          {
+            "id": "t_41",
+            "title": "Validating a BST",
+            "done": false
+          },
+          {
+            "id": "t_42",
+            "title": "AVL Trees & Red-Black Trees (Concepts)",
+            "done": false
+          }
+        ]
+      },
+      {
+        "id": "c_8",
+        "title": "Heaps & Hashing",
+        "topics": [
+          {
+            "id": "t_43",
+            "title": "Min Heap & Max Heap",
+            "done": false
+          },
+          {
+            "id": "t_44",
+            "title": "Priority Queue",
+            "done": false
+          },
+          {
+            "id": "t_45",
+            "title": "Kth Largest/Smallest Element",
+            "done": false
+          },
+          {
+            "id": "t_46",
+            "title": "Merge K Sorted Lists",
+            "done": false
+          },
+          {
+            "id": "t_47",
+            "title": "Hash Maps & Hash Sets",
+            "done": false
+          },
+          {
+            "id": "t_48",
+            "title": "Collision Handling (Chaining, Open Addressing)",
+            "done": false
+          }
+        ]
+      },
+      {
+        "id": "c_9",
+        "title": "Graphs",
+        "topics": [
+          {
+            "id": "t_49",
+            "title": "Graph Representations (Matrix, List)",
+            "done": false
+          },
+          {
+            "id": "t_50",
+            "title": "Breadth-First Search (BFS)",
+            "done": false
+          },
+          {
+            "id": "t_51",
+            "title": "Depth-First Search (DFS)",
+            "done": false
+          },
+          {
+            "id": "t_52",
+            "title": "Cycle Detection (Directed & Undirected)",
+            "done": false
+          },
+          {
+            "id": "t_53",
+            "title": "Topological Parsing (Kahn's Algorithm)",
+            "done": false
+          },
+          {
+            "id": "t_54",
+            "title": "Shortest Paths (Dijkstra, Bellman-Ford, Floyd-Warshall)",
+            "done": false
+          },
+          {
+            "id": "t_55",
+            "title": "Minimum Spanning Tree (Prim's, Kruskal's)",
+            "done": false
+          },
+          {
+            "id": "t_56",
+            "title": "Disjoint Set Union (Union-Find) & Path Compression",
+            "done": false
+          },
+          {
+            "id": "t_57",
+            "title": "Strongly Connected Components (Kosaraju, Tarjan)",
+            "done": false
+          },
+          {
+            "id": "t_58",
+            "title": "Bridges and Articulation Points",
+            "done": false
+          }
+        ]
+      },
+      {
+        "id": "c_10",
+        "title": "Greedy Algorithms",
+        "topics": [
+          {
+            "id": "t_59",
+            "title": "Fractional Knapsack",
+            "done": false
+          },
+          {
+            "id": "t_60",
+            "title": "Activity Selection & Job Sequencing",
+            "done": false
+          },
+          {
+            "id": "t_61",
+            "title": "Huffman Coding",
+            "done": false
+          }
+        ]
+      },
+      {
+        "id": "c_11",
+        "title": "Recursion & Backtracking",
+        "topics": [
+          {
+            "id": "t_62",
+            "title": "Recursion Trees & State Diagrams",
+            "done": false
+          },
+          {
+            "id": "t_63",
+            "title": "N-Queens Problem",
+            "done": false
+          },
+          {
+            "id": "t_64",
+            "title": "Sudoku Solver",
+            "done": false
+          },
+          {
+            "id": "t_65",
+            "title": "Word Search & Rat in a Maze",
+            "done": false
+          },
+          {
+            "id": "t_66",
+            "title": "Generating Subsets & Permutations",
+            "done": false
+          }
+        ]
+      },
+      {
+        "id": "c_12",
+        "title": "Dynamic Programming",
+        "topics": [
+          {
+            "id": "t_67",
+            "title": "Memoization vs. Tabulation",
+            "done": false
+          },
+          {
+            "id": "t_68",
+            "title": "1D DP (Fibonacci, Climbing Stairs, House Robber)",
+            "done": false
+          },
+          {
+            "id": "t_69",
+            "title": "2D DP & DP on Grids (Unique Paths, Minimum Path Sum)",
+            "done": false
+          },
+          {
+            "id": "t_70",
+            "title": "0/1 Knapsack & Unbounded Knapsack",
+            "done": false
+          },
+          {
+            "id": "t_71",
+            "title": "DP on Strings (LCS, Edit Distance)",
+            "done": false
+          },
+          {
+            "id": "t_72",
+            "title": "DP on Trees",
+            "done": false
+          },
+          {
+            "id": "t_73",
+            "title": "Matrix Chain Multiplication",
+            "done": false
+          }
+        ]
+      },
+      {
+        "id": "c_13",
+        "title": "Advanced Data Structures",
+        "topics": [
+          {
+            "id": "t_74",
+            "title": "Trie (Prefix Tree)",
+            "done": false
+          },
+          {
+            "id": "t_75",
+            "title": "Segment Tree",
+            "done": false
+          },
+          {
+            "id": "t_76",
+            "title": "Fenwick Tree (Binary Indexed Tree)",
+            "done": false
+          },
+          {
+            "id": "t_77",
+            "title": "Sparse Table",
+            "done": false
+          }
         ]
       }
     ]
