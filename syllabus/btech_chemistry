@@ -1,0 +1,538 @@
+[
+    {
+        "id": "s_3",
+        "title": "Chemistry",
+        "chapters": [
+            {
+                "id": "c_1",
+                "title": "Some Basic Concepts in Chemistry",
+                "topics": [
+                    {
+                        "id": "t_1",
+                        "title": "Matter and its nature, Dalton's atomic theory",
+                        "done": false
+                    },
+                    {
+                        "id": "t_2",
+                        "title": "Concept of atom, molecule, element and compound",
+                        "done": false
+                    },
+                    {
+                        "id": "t_3",
+                        "title": "Laws of chemical combination",
+                        "done": false
+                    },
+                    {
+                        "id": "t_4",
+                        "title": "Atomic and molecular masses, mole concept",
+                        "done": false
+                    },
+                    {
+                        "id": "t_5",
+                        "title": "Empirical and molecular formulae",
+                        "done": false
+                    },
+                    {
+                        "id": "t_6",
+                        "title": "Chemical equations and stoichiometry",
+                        "done": false
+                    }
+                ]
+            },
+            {
+                "id": "c_2",
+                "title": "Atomic Structure",
+                "topics": [
+                    {
+                        "id": "t_7",
+                        "title": "Electromagnetic radiation, photoelectric effect",
+                        "done": false
+                    },
+                    {
+                        "id": "t_8",
+                        "title": "Bohr model of hydrogen atom",
+                        "done": false
+                    },
+                    {
+                        "id": "t_9",
+                        "title": "Dual nature of matter, de Broglie's relationship",
+                        "done": false
+                    },
+                    {
+                        "id": "t_10",
+                        "title": "Heisenberg uncertainty principle",
+                        "done": false
+                    },
+                    {
+                        "id": "t_11",
+                        "title": "Quantum numbers, atomic orbitals (s, p, d)",
+                        "done": false
+                    },
+                    {
+                        "id": "t_12",
+                        "title": "Aufbau principle, Pauli's exclusion principle, Hund's rule",
+                        "done": false
+                    },
+                    {
+                        "id": "t_13",
+                        "title": "Electronic configuration of elements",
+                        "done": false
+                    }
+                ]
+            },
+            {
+                "id": "c_3",
+                "title": "Chemical Bonding and Molecular Structure",
+                "topics": [
+                    {
+                        "id": "t_14",
+                        "title": "Ionic and covalent bonds",
+                        "done": false
+                    },
+                    {
+                        "id": "t_15",
+                        "title": "Electronegativity, Fajan’s rule, dipole moment",
+                        "done": false
+                    },
+                    {
+                        "id": "t_16",
+                        "title": "VSEPR theory",
+                        "done": false
+                    },
+                    {
+                        "id": "t_17",
+                        "title": "Valence bond theory, hybridization",
+                        "done": false
+                    },
+                    {
+                        "id": "t_18",
+                        "title": "Molecular Orbital Theory (MOT)",
+                        "done": false
+                    },
+                    {
+                        "id": "t_19",
+                        "title": "Hydrogen bonding",
+                        "done": false
+                    }
+                ]
+            },
+            {
+                "id": "c_4",
+                "title": "Chemical Thermodynamics",
+                "topics": [
+                    {
+                        "id": "t_20",
+                        "title": "System, surroundings, extensive & intensive properties",
+                        "done": false
+                    },
+                    {
+                        "id": "t_21",
+                        "title": "First law of thermodynamics (work, heat, internal energy)",
+                        "done": false
+                    },
+                    {
+                        "id": "t_22",
+                        "title": "Hess’s law of constant heat summation",
+                        "done": false
+                    },
+                    {
+                        "id": "t_23",
+                        "title": "Enthalpies (formation, combustion, atomization, etc.)",
+                        "done": false
+                    },
+                    {
+                        "id": "t_24",
+                        "title": "Second law of thermodynamics, spontaneity",
+                        "done": false
+                    },
+                    {
+                        "id": "t_25",
+                        "title": "Standard Gibbs energy change",
+                        "done": false
+                    }
+                ]
+            },
+            {
+                "id": "c_5",
+                "title": "Solutions",
+                "topics": [
+                    {
+                        "id": "t_26",
+                        "title": "Concentration of solution",
+                        "done": false
+                    },
+                    {
+                        "id": "t_27",
+                        "title": "Vapour pressure, Raoult's Law",
+                        "done": false
+                    },
+                    {
+                        "id": "t_28",
+                        "title": "Ideal and non-ideal solutions",
+                        "done": false
+                    },
+                    {
+                        "id": "t_29",
+                        "title": "Colligative properties",
+                        "done": false
+                    },
+                    {
+                        "id": "t_30",
+                        "title": "Abnormal value of molar mass, van’t Hoff factor",
+                        "done": false
+                    }
+                ]
+            },
+            {
+                "id": "c_6",
+                "title": "Equilibrium",
+                "topics": [
+                    {
+                        "id": "t_31",
+                        "title": "Dynamic equilibrium, physical processes equilibria",
+                        "done": false
+                    },
+                    {
+                        "id": "t_32",
+                        "title": "Law of chemical equilibrium, Kp and Kc",
+                        "done": false
+                    },
+                    {
+                        "id": "t_33",
+                        "title": "Le Chatelier’s principle",
+                        "done": false
+                    },
+                    {
+                        "id": "t_34",
+                        "title": "Ionic equilibrium: Acids, bases, pH scale",
+                        "done": false
+                    },
+                    {
+                        "id": "t_35",
+                        "title": "Common ion effect, buffer solutions",
+                        "done": false
+                    },
+                    {
+                        "id": "t_36",
+                        "title": "Solubility product",
+                        "done": false
+                    }
+                ]
+            },
+            {
+                "id": "c_7",
+                "title": "Redox Reactions and Electrochemistry",
+                "topics": [
+                    {
+                        "id": "t_37",
+                        "title": "Oxidation and reduction concepts, oxidation number",
+                        "done": false
+                    },
+                    {
+                        "id": "t_38",
+                        "title": "Electrolytic and metallic conduction",
+                        "done": false
+                    },
+                    {
+                        "id": "t_39",
+                        "title": "Kohlrausch’s law",
+                        "done": false
+                    },
+                    {
+                        "id": "t_40",
+                        "title": "Electrochemical cells (Electrolytic and Galvanic)",
+                        "done": false
+                    },
+                    {
+                        "id": "t_41",
+                        "title": "Electrode potentials, Nernst equation",
+                        "done": false
+                    },
+                    {
+                        "id": "t_42",
+                        "title": "Batteries, fuel cells",
+                        "done": false
+                    }
+                ]
+            },
+            {
+                "id": "c_8",
+                "title": "Chemical Kinetics",
+                "topics": [
+                    {
+                        "id": "t_43",
+                        "title": "Rate of reaction, factors affecting rate",
+                        "done": false
+                    },
+                    {
+                        "id": "t_44",
+                        "title": "Order and molecularity, rate constant",
+                        "done": false
+                    },
+                    {
+                        "id": "t_45",
+                        "title": "Zero and first-order reactions, half-lives",
+                        "done": false
+                    },
+                    {
+                        "id": "t_46",
+                        "title": "Arrhenius theory, activation energy",
+                        "done": false
+                    },
+                    {
+                        "id": "t_47",
+                        "title": "Collision theory",
+                        "done": false
+                    }
+                ]
+            },
+            {
+                "id": "c_9",
+                "title": "Classification of Elements and Periodicity in Properties",
+                "topics": [
+                    {
+                        "id": "t_48",
+                        "title": "Modern periodic law",
+                        "done": false
+                    },
+                    {
+                        "id": "t_49",
+                        "title": "s, p, d and f block elements",
+                        "done": false
+                    },
+                    {
+                        "id": "t_50",
+                        "title": "Periodic trends (atomic radii, ionization enthalpy, etc.)",
+                        "done": false
+                    }
+                ]
+            },
+            {
+                "id": "c_10",
+                "title": "p- Block Elements",
+                "topics": [
+                    {
+                        "id": "t_51",
+                        "title": "Group 13 to Group 18 Elements",
+                        "done": false
+                    },
+                    {
+                        "id": "t_52",
+                        "title": "General trends in properties",
+                        "done": false
+                    }
+                ]
+            },
+            {
+                "id": "c_11",
+                "title": "d- and f- Block Elements",
+                "topics": [
+                    {
+                        "id": "t_53",
+                        "title": "Transition Elements: properties",
+                        "done": false
+                    },
+                    {
+                        "id": "t_54",
+                        "title": "Preparation, properties, uses of K2Cr2O7 and KMnO4",
+                        "done": false
+                    },
+                    {
+                        "id": "t_55",
+                        "title": "Lanthanoids and Actinoids (Lanthanoid contraction)",
+                        "done": false
+                    }
+                ]
+            },
+            {
+                "id": "c_12",
+                "title": "Coordination Compounds",
+                "topics": [
+                    {
+                        "id": "t_56",
+                        "title": "Werner's theory, ligands, coordination number",
+                        "done": false
+                    },
+                    {
+                        "id": "t_57",
+                        "title": "IUPAC nomenclature, isomerism",
+                        "done": false
+                    },
+                    {
+                        "id": "t_58",
+                        "title": "Valence bond approach, Crystal field theory",
+                        "done": false
+                    }
+                ]
+            },
+            {
+                "id": "c_13",
+                "title": "Purification and Characterisation of Organic Compounds",
+                "topics": [
+                    {
+                        "id": "t_59",
+                        "title": "Purification methods (crystallization, distillation, etc.)",
+                        "done": false
+                    },
+                    {
+                        "id": "t_60",
+                        "title": "Qualitative analysis (detection of elements)",
+                        "done": false
+                    },
+                    {
+                        "id": "t_61",
+                        "title": "Quantitative analysis",
+                        "done": false
+                    }
+                ]
+            },
+            {
+                "id": "c_14",
+                "title": "Some Basic Principles of Organic Chemistry",
+                "topics": [
+                    {
+                        "id": "t_62",
+                        "title": "Tetravalency of carbon, hybridization",
+                        "done": false
+                    },
+                    {
+                        "id": "t_63",
+                        "title": "Nomenclature",
+                        "done": false
+                    },
+                    {
+                        "id": "t_64",
+                        "title": "Electronic displacement (Inductive, electromeric, resonance)",
+                        "done": false
+                    },
+                    {
+                        "id": "t_65",
+                        "title": "Bond fission (carbocations, carbanions, free radicals)",
+                        "done": false
+                    }
+                ]
+            },
+            {
+                "id": "c_15",
+                "title": "Hydrocarbons",
+                "topics": [
+                    {
+                        "id": "t_66",
+                        "title": "Alkanes (conformations, halogenation)",
+                        "done": false
+                    },
+                    {
+                        "id": "t_67",
+                        "title": "Alkenes (Markownikoffs rule, ozonolysis)",
+                        "done": false
+                    },
+                    {
+                        "id": "t_68",
+                        "title": "Alkynes (acidic character)",
+                        "done": false
+                    },
+                    {
+                        "id": "t_69",
+                        "title": "Aromatic hydrocarbons (Benzene structure, reactions)",
+                        "done": false
+                    }
+                ]
+            },
+            {
+                "id": "c_16",
+                "title": "Organic Compounds Containing Halogens",
+                "topics": [
+                    {
+                        "id": "t_70",
+                        "title": "Preparation, properties and reactions",
+                        "done": false
+                    },
+                    {
+                        "id": "t_71",
+                        "title": "Mechanisms of substitution reactions",
+                        "done": false
+                    }
+                ]
+            },
+            {
+                "id": "c_17",
+                "title": "Organic Compounds Containing Oxygen",
+                "topics": [
+                    {
+                        "id": "t_72",
+                        "title": "Alcohols, Phenols and Ethers",
+                        "done": false
+                    },
+                    {
+                        "id": "t_73",
+                        "title": "Aldehydes and Ketones (Nucleophilic addition, tests)",
+                        "done": false
+                    },
+                    {
+                        "id": "t_74",
+                        "title": "Carboxylic Acids (Acidic strength)",
+                        "done": false
+                    }
+                ]
+            },
+            {
+                "id": "c_18",
+                "title": "Organic Compounds Containing Nitrogen",
+                "topics": [
+                    {
+                        "id": "t_75",
+                        "title": "Amines (classification, basic character)",
+                        "done": false
+                    },
+                    {
+                        "id": "t_76",
+                        "title": "Diazonium Salts",
+                        "done": false
+                    }
+                ]
+            },
+            {
+                "id": "c_19",
+                "title": "Biomolecules",
+                "topics": [
+                    {
+                        "id": "t_77",
+                        "title": "Carbohydrates (Classification, structure)",
+                        "done": false
+                    },
+                    {
+                        "id": "t_78",
+                        "title": "Proteins (Amino acids, structure, enzymes)",
+                        "done": false
+                    },
+                    {
+                        "id": "t_79",
+                        "title": "Vitamins, Nucleic Acids (DNA & RNA)",
+                        "done": false
+                    }
+                ]
+            },
+            {
+                "id": "c_20",
+                "title": "Principles Related to Practical Chemistry",
+                "topics": [
+                    {
+                        "id": "t_80",
+                        "title": "Detection of functional groups",
+                        "done": false
+                    },
+                    {
+                        "id": "t_81",
+                        "title": "Titrimetric exercises",
+                        "done": false
+                    },
+                    {
+                        "id": "t_82",
+                        "title": "Qualitative salt analysis",
+                        "done": false
+                    }
+                ]
+            }
+        ]
+    }
+]

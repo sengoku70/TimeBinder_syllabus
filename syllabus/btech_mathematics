@@ -1,0 +1,592 @@
+[
+    {
+        "id": "s_1",
+        "title": "Mathematics",
+        "chapters": [
+            {
+                "id": "c_1",
+                "title": "Sets, Relations and Functions",
+                "topics": [
+                    {
+                        "id": "t_1",
+                        "title": "Sets and their representation",
+                        "done": false
+                    },
+                    {
+                        "id": "t_2",
+                        "title": "Union, intersection and complement of sets",
+                        "done": false
+                    },
+                    {
+                        "id": "t_3",
+                        "title": "Algebraic properties of sets",
+                        "done": false
+                    },
+                    {
+                        "id": "t_4",
+                        "title": "Power set",
+                        "done": false
+                    },
+                    {
+                        "id": "t_5",
+                        "title": "Relations, types of relations",
+                        "done": false
+                    },
+                    {
+                        "id": "t_6",
+                        "title": "Equivalence relations",
+                        "done": false
+                    },
+                    {
+                        "id": "t_7",
+                        "title": "Functions: one-one, into and onto",
+                        "done": false
+                    },
+                    {
+                        "id": "t_8",
+                        "title": "Composition of functions",
+                        "done": false
+                    }
+                ]
+            },
+            {
+                "id": "c_2",
+                "title": "Complex Numbers and Quadratic Equations",
+                "topics": [
+                    {
+                        "id": "t_9",
+                        "title": "Complex numbers as ordered pairs",
+                        "done": false
+                    },
+                    {
+                        "id": "t_10",
+                        "title": "Representation in a + ib form",
+                        "done": false
+                    },
+                    {
+                        "id": "t_11",
+                        "title": "Argand diagram",
+                        "done": false
+                    },
+                    {
+                        "id": "t_12",
+                        "title": "Algebra of complex numbers",
+                        "done": false
+                    },
+                    {
+                        "id": "t_13",
+                        "title": "Modulus and argument (amplitude)",
+                        "done": false
+                    },
+                    {
+                        "id": "t_14",
+                        "title": "Quadratic equations (real/complex systems) & solutions",
+                        "done": false
+                    },
+                    {
+                        "id": "t_15",
+                        "title": "Relations between roots and coefficients",
+                        "done": false
+                    },
+                    {
+                        "id": "t_16",
+                        "title": "Nature of roots",
+                        "done": false
+                    },
+                    {
+                        "id": "t_17",
+                        "title": "Formation of quadratic equations",
+                        "done": false
+                    }
+                ]
+            },
+            {
+                "id": "c_3",
+                "title": "Matrices and Determinants",
+                "topics": [
+                    {
+                        "id": "t_18",
+                        "title": "Matrices, algebra of matrices",
+                        "done": false
+                    },
+                    {
+                        "id": "t_19",
+                        "title": "Types of matrices",
+                        "done": false
+                    },
+                    {
+                        "id": "t_20",
+                        "title": "Determinants (order 2 & 3)",
+                        "done": false
+                    },
+                    {
+                        "id": "t_21",
+                        "title": "Evaluation of determinants",
+                        "done": false
+                    },
+                    {
+                        "id": "t_22",
+                        "title": "Area of triangles using determinants",
+                        "done": false
+                    },
+                    {
+                        "id": "t_23",
+                        "title": "Adjoint and inverse of a square matrix",
+                        "done": false
+                    },
+                    {
+                        "id": "t_24",
+                        "title": "Consistency and solution of linear equations",
+                        "done": false
+                    }
+                ]
+            },
+            {
+                "id": "c_4",
+                "title": "Permutations and Combinations",
+                "topics": [
+                    {
+                        "id": "t_25",
+                        "title": "Fundamental principle of counting",
+                        "done": false
+                    },
+                    {
+                        "id": "t_26",
+                        "title": "Meaning of P(n, r)",
+                        "done": false
+                    },
+                    {
+                        "id": "t_27",
+                        "title": "Meaning of C(n, r)",
+                        "done": false
+                    },
+                    {
+                        "id": "t_28",
+                        "title": "Simple applications",
+                        "done": false
+                    }
+                ]
+            },
+            {
+                "id": "c_5",
+                "title": "Binomial Theorem and Its Applications",
+                "topics": [
+                    {
+                        "id": "t_29",
+                        "title": "Binomial theorem for a positive integral index",
+                        "done": false
+                    },
+                    {
+                        "id": "t_30",
+                        "title": "General term",
+                        "done": false
+                    },
+                    {
+                        "id": "t_31",
+                        "title": "Middle term",
+                        "done": false
+                    },
+                    {
+                        "id": "t_32",
+                        "title": "Simple applications",
+                        "done": false
+                    }
+                ]
+            },
+            {
+                "id": "c_6",
+                "title": "Sequence and Series",
+                "topics": [
+                    {
+                        "id": "t_33",
+                        "title": "Arithmetic Progression",
+                        "done": false
+                    },
+                    {
+                        "id": "t_34",
+                        "title": "Geometric Progression",
+                        "done": false
+                    },
+                    {
+                        "id": "t_35",
+                        "title": "Insertion of AM and GM",
+                        "done": false
+                    },
+                    {
+                        "id": "t_36",
+                        "title": "Relation between AM and GM",
+                        "done": false
+                    }
+                ]
+            },
+            {
+                "id": "c_7",
+                "title": "Limit, Continuity and Differentiability",
+                "topics": [
+                    {
+                        "id": "t_37",
+                        "title": "Real–valued functions & algebra",
+                        "done": false
+                    },
+                    {
+                        "id": "t_38",
+                        "title": "Polynomial, rational, trigonometric functions",
+                        "done": false
+                    },
+                    {
+                        "id": "t_39",
+                        "title": "Logarithmic and exponential functions",
+                        "done": false
+                    },
+                    {
+                        "id": "t_40",
+                        "title": "Inverse functions & graphs",
+                        "done": false
+                    },
+                    {
+                        "id": "t_41",
+                        "title": "Limits, continuity",
+                        "done": false
+                    },
+                    {
+                        "id": "t_42",
+                        "title": "Differentiability",
+                        "done": false
+                    },
+                    {
+                        "id": "t_43",
+                        "title": "Differentiation (sum, diff, product, quotient)",
+                        "done": false
+                    },
+                    {
+                        "id": "t_44",
+                        "title": "Differentiation of trig, inverse trig, log, exp",
+                        "done": false
+                    },
+                    {
+                        "id": "t_45",
+                        "title": "Differentiation of composite & implicit functions",
+                        "done": false
+                    },
+                    {
+                        "id": "t_46",
+                        "title": "Derivatives of order up to two",
+                        "done": false
+                    },
+                    {
+                        "id": "t_47",
+                        "title": "Rate of change of quantities",
+                        "done": false
+                    },
+                    {
+                        "id": "t_48",
+                        "title": "Monotonic increasing & decreasing functions",
+                        "done": false
+                    },
+                    {
+                        "id": "t_49",
+                        "title": "Maxima and minima",
+                        "done": false
+                    }
+                ]
+            },
+            {
+                "id": "c_8",
+                "title": "Integral Calculus",
+                "topics": [
+                    {
+                        "id": "t_50",
+                        "title": "Integral as an anti-derivative",
+                        "done": false
+                    },
+                    {
+                        "id": "t_51",
+                        "title": "Fundamental integrals (algebraic, trig, log, exp)",
+                        "done": false
+                    },
+                    {
+                        "id": "t_52",
+                        "title": "Integration by substitution",
+                        "done": false
+                    },
+                    {
+                        "id": "t_53",
+                        "title": "Integration by parts",
+                        "done": false
+                    },
+                    {
+                        "id": "t_54",
+                        "title": "Integration by partial fractions",
+                        "done": false
+                    },
+                    {
+                        "id": "t_55",
+                        "title": "Integration using trigonometric identities",
+                        "done": false
+                    },
+                    {
+                        "id": "t_56",
+                        "title": "Evaluation of simple integrals",
+                        "done": false
+                    },
+                    {
+                        "id": "t_57",
+                        "title": "Fundamental theorem of calculus",
+                        "done": false
+                    },
+                    {
+                        "id": "t_58",
+                        "title": "Properties of definite integrals",
+                        "done": false
+                    },
+                    {
+                        "id": "t_59",
+                        "title": "Area of bounded regions",
+                        "done": false
+                    }
+                ]
+            },
+            {
+                "id": "c_9",
+                "title": "Differential Equations",
+                "topics": [
+                    {
+                        "id": "t_60",
+                        "title": "Ordinary differential equations (order, degree)",
+                        "done": false
+                    },
+                    {
+                        "id": "t_61",
+                        "title": "Method of separation of variables",
+                        "done": false
+                    },
+                    {
+                        "id": "t_62",
+                        "title": "Solution of homogeneous equations",
+                        "done": false
+                    },
+                    {
+                        "id": "t_63",
+                        "title": "Solution of linear differential equations (dy/dx + Py = Q)",
+                        "done": false
+                    }
+                ]
+            },
+            {
+                "id": "c_10",
+                "title": "Coordinate Geometry",
+                "topics": [
+                    {
+                        "id": "t_64",
+                        "title": "Cartesian system of rectangular coordinates",
+                        "done": false
+                    },
+                    {
+                        "id": "t_65",
+                        "title": "Distance and section formulas",
+                        "done": false
+                    },
+                    {
+                        "id": "t_66",
+                        "title": "Locus and its equation",
+                        "done": false
+                    },
+                    {
+                        "id": "t_67",
+                        "title": "Slope of a line, parallel/perpendicular lines",
+                        "done": false
+                    },
+                    {
+                        "id": "t_68",
+                        "title": "Intercepts of a line",
+                        "done": false
+                    },
+                    {
+                        "id": "t_69",
+                        "title": "Various forms of line equations",
+                        "done": false
+                    },
+                    {
+                        "id": "t_70",
+                        "title": "Intersection, angle between two lines",
+                        "done": false
+                    },
+                    {
+                        "id": "t_71",
+                        "title": "Concurrence of three lines",
+                        "done": false
+                    },
+                    {
+                        "id": "t_72",
+                        "title": "Distance of a point from a line",
+                        "done": false
+                    },
+                    {
+                        "id": "t_73",
+                        "title": "Centroid, orthocentre, circumcentre",
+                        "done": false
+                    },
+                    {
+                        "id": "t_74",
+                        "title": "Circle: Standard & general form equations",
+                        "done": false
+                    },
+                    {
+                        "id": "t_75",
+                        "title": "Circle with diametric endpoints",
+                        "done": false
+                    },
+                    {
+                        "id": "t_76",
+                        "title": "Line & circle intersection",
+                        "done": false
+                    },
+                    {
+                        "id": "t_77",
+                        "title": "Sections of conics (parabola, ellipse, hyperbola in std forms)",
+                        "done": false
+                    }
+                ]
+            },
+            {
+                "id": "c_11",
+                "title": "Three Dimensional Geometry",
+                "topics": [
+                    {
+                        "id": "t_78",
+                        "title": "Coordinates of a point in space",
+                        "done": false
+                    },
+                    {
+                        "id": "t_79",
+                        "title": "Distance between two points & section formula",
+                        "done": false
+                    },
+                    {
+                        "id": "t_80",
+                        "title": "Direction ratios and cosines",
+                        "done": false
+                    },
+                    {
+                        "id": "t_81",
+                        "title": "Angle between two lines",
+                        "done": false
+                    },
+                    {
+                        "id": "t_82",
+                        "title": "Equation of a line",
+                        "done": false
+                    },
+                    {
+                        "id": "t_83",
+                        "title": "Skew lines, shortest distance & equation",
+                        "done": false
+                    }
+                ]
+            },
+            {
+                "id": "c_12",
+                "title": "Vector Algebra",
+                "topics": [
+                    {
+                        "id": "t_84",
+                        "title": "Vectors and scalars",
+                        "done": false
+                    },
+                    {
+                        "id": "t_85",
+                        "title": "Addition of vectors",
+                        "done": false
+                    },
+                    {
+                        "id": "t_86",
+                        "title": "Components of a vector (2D/3D)",
+                        "done": false
+                    },
+                    {
+                        "id": "t_87",
+                        "title": "Scalar product",
+                        "done": false
+                    },
+                    {
+                        "id": "t_88",
+                        "title": "Vector product",
+                        "done": false
+                    }
+                ]
+            },
+            {
+                "id": "c_13",
+                "title": "Statistics and Probability",
+                "topics": [
+                    {
+                        "id": "t_89",
+                        "title": "Measures of dispersion",
+                        "done": false
+                    },
+                    {
+                        "id": "t_90",
+                        "title": "Mean, median, mode",
+                        "done": false
+                    },
+                    {
+                        "id": "t_91",
+                        "title": "Standard deviation & variance",
+                        "done": false
+                    },
+                    {
+                        "id": "t_92",
+                        "title": "Mean deviation",
+                        "done": false
+                    },
+                    {
+                        "id": "t_93",
+                        "title": "Probability of an event",
+                        "done": false
+                    },
+                    {
+                        "id": "t_94",
+                        "title": "Addition & multiplication theorems",
+                        "done": false
+                    },
+                    {
+                        "id": "t_95",
+                        "title": "Baye's theorem",
+                        "done": false
+                    },
+                    {
+                        "id": "t_96",
+                        "title": "Probability distribution of a random variable",
+                        "done": false
+                    }
+                ]
+            },
+            {
+                "id": "c_14",
+                "title": "Trigonometry",
+                "topics": [
+                    {
+                        "id": "t_97",
+                        "title": "Trigonometrical identities",
+                        "done": false
+                    },
+                    {
+                        "id": "t_98",
+                        "title": "Trigonometrical functions",
+                        "done": false
+                    },
+                    {
+                        "id": "t_99",
+                        "title": "Inverse trigonometrical functions",
+                        "done": false
+                    },
+                    {
+                        "id": "t_100",
+                        "title": "Properties of inverse trig functions",
+                        "done": false
+                    }
+                ]
+            }
+        ]
+    }
+]
