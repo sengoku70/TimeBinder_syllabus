@@ -1,0 +1,138 @@
+[
+  {
+    "id": "s_1",
+    "title": "SQL and Databases",
+    "chapters": [
+      {
+        "id": "c_1",
+        "title": "Database Fundamentals",
+        "topics": [
+          {"id": "t_1", "title": "What is a Database", "done": false},
+          {"id": "t_2", "title": "Relational Database Concepts", "done": false},
+          {"id": "t_3", "title": "Tables, Rows, and Columns", "done": false},
+          {"id": "t_4", "title": "Primary Keys and Unique Keys", "done": false},
+          {"id": "t_5", "title": "Foreign Keys and Relationships", "done": false},
+          {"id": "t_6", "title": "ER Diagrams Basics", "done": false}
+        ]
+      },
+      {
+        "id": "c_2",
+        "title": "Basic SQL Queries",
+        "topics": [
+          {"id": "t_7", "title": "SELECT Statement", "done": false},
+          {"id": "t_8", "title": "WHERE Clause", "done": false},
+          {"id": "t_9", "title": "ORDER BY", "done": false},
+          {"id": "t_10", "title": "LIMIT and OFFSET", "done": false},
+          {"id": "t_11", "title": "DISTINCT Keyword", "done": false}
+        ]
+      },
+      {
+        "id": "c_3",
+        "title": "Filtering and Conditions",
+        "topics": [
+          {"id": "t_12", "title": "AND, OR, NOT Operators", "done": false},
+          {"id": "t_13", "title": "BETWEEN Operator", "done": false},
+          {"id": "t_14", "title": "IN Operator", "done": false},
+          {"id": "t_15", "title": "LIKE Operator", "done": false},
+          {"id": "t_16", "title": "NULL Values Handling", "done": false}
+        ]
+      },
+      {
+        "id": "c_4",
+        "title": "Aggregate Functions",
+        "topics": [
+          {"id": "t_17", "title": "COUNT Function", "done": false},
+          {"id": "t_18", "title": "SUM Function", "done": false},
+          {"id": "t_19", "title": "AVG Function", "done": false},
+          {"id": "t_20", "title": "MIN and MAX Functions", "done": false},
+          {"id": "t_21", "title": "GROUP BY Clause", "done": false},
+          {"id": "t_22", "title": "HAVING Clause", "done": false}
+        ]
+      },
+      {
+        "id": "c_5",
+        "title": "Joins",
+        "topics": [
+          {"id": "t_23", "title": "Introduction to Joins", "done": false},
+          {"id": "t_24", "title": "INNER JOIN", "done": false},
+          {"id": "t_25", "title": "LEFT JOIN", "done": false},
+          {"id": "t_26", "title": "RIGHT JOIN", "done": false},
+          {"id": "t_27", "title": "FULL JOIN", "done": false},
+          {"id": "t_28", "title": "Self Join", "done": false}
+        ]
+      },
+      {
+        "id": "c_6",
+        "title": "Subqueries",
+        "topics": [
+          {"id": "t_29", "title": "Introduction to Subqueries", "done": false},
+          {"id": "t_30", "title": "Scalar Subqueries", "done": false},
+          {"id": "t_31", "title": "Correlated Subqueries", "done": false},
+          {"id": "t_32", "title": "EXISTS and NOT EXISTS", "done": false},
+          {"id": "t_33", "title": "ANY and ALL Operators", "done": false}
+        ]
+      },
+      {
+        "id": "c_7",
+        "title": "Data Manipulation Language (DML)",
+        "topics": [
+          {"id": "t_34", "title": "INSERT Statement", "done": false},
+          {"id": "t_35", "title": "UPDATE Statement", "done": false},
+          {"id": "t_36", "title": "DELETE Statement", "done": false}
+        ]
+      },
+      {
+        "id": "c_8",
+        "title": "Data Definition Language (DDL)",
+        "topics": [
+          {"id": "t_37", "title": "CREATE TABLE", "done": false},
+          {"id": "t_38", "title": "ALTER TABLE", "done": false},
+          {"id": "t_39", "title": "DROP TABLE", "done": false},
+          {"id": "t_40", "title": "TRUNCATE TABLE", "done": false},
+          {"id": "t_41", "title": "Constraints (PRIMARY KEY, FOREIGN KEY, UNIQUE)", "done": false}
+        ]
+      },
+      {
+        "id": "c_9",
+        "title": "Indexes and Performance",
+        "topics": [
+          {"id": "t_42", "title": "What is an Index", "done": false},
+          {"id": "t_43", "title": "Creating and Dropping Indexes", "done": false},
+          {"id": "t_44", "title": "Clustered vs Non-Clustered Index", "done": false},
+          {"id": "t_45", "title": "Query Optimization Basics", "done": false}
+        ]
+      },
+      {
+        "id": "c_10",
+        "title": "Transactions",
+        "topics": [
+          {"id": "t_46", "title": "What is a Transaction", "done": false},
+          {"id": "t_47", "title": "ACID Properties", "done": false},
+          {"id": "t_48", "title": "COMMIT and ROLLBACK", "done": false},
+          {"id": "t_49", "title": "SAVEPOINT", "done": false}
+        ]
+      },
+      {
+        "id": "c_11",
+        "title": "Views and Stored Logic",
+        "topics": [
+          {"id": "t_50", "title": "Views", "done": false},
+          {"id": "t_51", "title": "Stored Procedures", "done": false},
+          {"id": "t_52", "title": "Functions", "done": false},
+          {"id": "t_53", "title": "Triggers", "done": false}
+        ]
+      },
+      {
+        "id": "c_12",
+        "title": "Advanced SQL",
+        "topics": [
+          {"id": "t_54", "title": "Window Functions", "done": false},
+          {"id": "t_55", "title": "Common Table Expressions (CTE)", "done": false},
+          {"id": "t_56", "title": "Recursive Queries", "done": false},
+          {"id": "t_57", "title": "Database Normalization", "done": false},
+          {"id": "t_58", "title": "Denormalization", "done": false}
+        ]
+      }
+    ]
+  }
+]
