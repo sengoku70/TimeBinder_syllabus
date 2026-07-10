@@ -1,2782 +1,538 @@
 [
-  {
-    "id": "s_1",
-    "title": "LeetCode Zero to Hero to Expert",
-    "chapters": [
-      {
-        "id": "c_1",
-        "title": "Programming Basics",
-        "topics": [
-          {
-            "id": "t_1",
-            "title": "Fizz Buzz",
-            "done": false
-          },
-          {
-            "id": "t_2",
-            "title": "Palindrome Number",
-            "done": false
-          },
-          {
-            "id": "t_3",
-            "title": "Roman to Integer",
-            "done": false
-          },
-          {
-            "id": "t_4",
-            "title": "Plus One",
-            "done": false
-          },
-          {
-            "id": "t_5",
-            "title": "Sqrt(x)",
-            "done": false
-          },
-          {
-            "id": "t_6",
-            "title": "Climbing Stairs",
-            "done": false
-          },
-          {
-            "id": "t_7",
-            "title": "Power of Two",
-            "done": false
-          },
-          {
-            "id": "t_8",
-            "title": "Power of Three",
-            "done": false
-          },
-          {
-            "id": "t_9",
-            "title": "Power of Four",
-            "done": false
-          },
-          {
-            "id": "t_10",
-            "title": "Happy Number",
-            "done": false
-          }
+    {
+        "id": "s_3",
+        "title": "Chemistry",
+        "chapters": [
+            {
+                "id": "c_1",
+                "title": "Some Basic Concepts in Chemistry",
+                "topics": [
+                    {
+                        "id": "t_1",
+                        "title": "Matter and its nature, Dalton's atomic theory",
+                        "done": false
+                    },
+                    {
+                        "id": "t_2",
+                        "title": "Concept of atom, molecule, element and compound",
+                        "done": false
+                    },
+                    {
+                        "id": "t_3",
+                        "title": "Laws of chemical combination",
+                        "done": false
+                    },
+                    {
+                        "id": "t_4",
+                        "title": "Atomic and molecular masses, mole concept",
+                        "done": false
+                    },
+                    {
+                        "id": "t_5",
+                        "title": "Empirical and molecular formulae",
+                        "done": false
+                    },
+                    {
+                        "id": "t_6",
+                        "title": "Chemical equations and stoichiometry",
+                        "done": false
+                    }
+                ]
+            },
+            {
+                "id": "c_2",
+                "title": "Atomic Structure",
+                "topics": [
+                    {
+                        "id": "t_7",
+                        "title": "Electromagnetic radiation, photoelectric effect",
+                        "done": false
+                    },
+                    {
+                        "id": "t_8",
+                        "title": "Bohr model of hydrogen atom",
+                        "done": false
+                    },
+                    {
+                        "id": "t_9",
+                        "title": "Dual nature of matter, de Broglie's relationship",
+                        "done": false
+                    },
+                    {
+                        "id": "t_10",
+                        "title": "Heisenberg uncertainty principle",
+                        "done": false
+                    },
+                    {
+                        "id": "t_11",
+                        "title": "Quantum numbers, atomic orbitals (s, p, d)",
+                        "done": false
+                    },
+                    {
+                        "id": "t_12",
+                        "title": "Aufbau principle, Pauli's exclusion principle, Hund's rule",
+                        "done": false
+                    },
+                    {
+                        "id": "t_13",
+                        "title": "Electronic configuration of elements",
+                        "done": false
+                    }
+                ]
+            },
+            {
+                "id": "c_3",
+                "title": "Chemical Bonding and Molecular Structure",
+                "topics": [
+                    {
+                        "id": "t_14",
+                        "title": "Ionic and covalent bonds",
+                        "done": false
+                    },
+                    {
+                        "id": "t_15",
+                        "title": "Electronegativity, Fajan’s rule, dipole moment",
+                        "done": false
+                    },
+                    {
+                        "id": "t_16",
+                        "title": "VSEPR theory",
+                        "done": false
+                    },
+                    {
+                        "id": "t_17",
+                        "title": "Valence bond theory, hybridization",
+                        "done": false
+                    },
+                    {
+                        "id": "t_18",
+                        "title": "Molecular Orbital Theory (MOT)",
+                        "done": false
+                    },
+                    {
+                        "id": "t_19",
+                        "title": "Hydrogen bonding",
+                        "done": false
+                    }
+                ]
+            },
+            {
+                "id": "c_4",
+                "title": "Chemical Thermodynamics",
+                "topics": [
+                    {
+                        "id": "t_20",
+                        "title": "System, surroundings, extensive & intensive properties",
+                        "done": false
+                    },
+                    {
+                        "id": "t_21",
+                        "title": "First law of thermodynamics (work, heat, internal energy)",
+                        "done": false
+                    },
+                    {
+                        "id": "t_22",
+                        "title": "Hess’s law of constant heat summation",
+                        "done": false
+                    },
+                    {
+                        "id": "t_23",
+                        "title": "Enthalpies (formation, combustion, atomization, etc.)",
+                        "done": false
+                    },
+                    {
+                        "id": "t_24",
+                        "title": "Second law of thermodynamics, spontaneity",
+                        "done": false
+                    },
+                    {
+                        "id": "t_25",
+                        "title": "Standard Gibbs energy change",
+                        "done": false
+                    }
+                ]
+            },
+            {
+                "id": "c_5",
+                "title": "Solutions",
+                "topics": [
+                    {
+                        "id": "t_26",
+                        "title": "Concentration of solution",
+                        "done": false
+                    },
+                    {
+                        "id": "t_27",
+                        "title": "Vapour pressure, Raoult's Law",
+                        "done": false
+                    },
+                    {
+                        "id": "t_28",
+                        "title": "Ideal and non-ideal solutions",
+                        "done": false
+                    },
+                    {
+                        "id": "t_29",
+                        "title": "Colligative properties",
+                        "done": false
+                    },
+                    {
+                        "id": "t_30",
+                        "title": "Abnormal value of molar mass, van’t Hoff factor",
+                        "done": false
+                    }
+                ]
+            },
+            {
+                "id": "c_6",
+                "title": "Equilibrium",
+                "topics": [
+                    {
+                        "id": "t_31",
+                        "title": "Dynamic equilibrium, physical processes equilibria",
+                        "done": false
+                    },
+                    {
+                        "id": "t_32",
+                        "title": "Law of chemical equilibrium, Kp and Kc",
+                        "done": false
+                    },
+                    {
+                        "id": "t_33",
+                        "title": "Le Chatelier’s principle",
+                        "done": false
+                    },
+                    {
+                        "id": "t_34",
+                        "title": "Ionic equilibrium: Acids, bases, pH scale",
+                        "done": false
+                    },
+                    {
+                        "id": "t_35",
+                        "title": "Common ion effect, buffer solutions",
+                        "done": false
+                    },
+                    {
+                        "id": "t_36",
+                        "title": "Solubility product",
+                        "done": false
+                    }
+                ]
+            },
+            {
+                "id": "c_7",
+                "title": "Redox Reactions and Electrochemistry",
+                "topics": [
+                    {
+                        "id": "t_37",
+                        "title": "Oxidation and reduction concepts, oxidation number",
+                        "done": false
+                    },
+                    {
+                        "id": "t_38",
+                        "title": "Electrolytic and metallic conduction",
+                        "done": false
+                    },
+                    {
+                        "id": "t_39",
+                        "title": "Kohlrausch’s law",
+                        "done": false
+                    },
+                    {
+                        "id": "t_40",
+                        "title": "Electrochemical cells (Electrolytic and Galvanic)",
+                        "done": false
+                    },
+                    {
+                        "id": "t_41",
+                        "title": "Electrode potentials, Nernst equation",
+                        "done": false
+                    },
+                    {
+                        "id": "t_42",
+                        "title": "Batteries, fuel cells",
+                        "done": false
+                    }
+                ]
+            },
+            {
+                "id": "c_8",
+                "title": "Chemical Kinetics",
+                "topics": [
+                    {
+                        "id": "t_43",
+                        "title": "Rate of reaction, factors affecting rate",
+                        "done": false
+                    },
+                    {
+                        "id": "t_44",
+                        "title": "Order and molecularity, rate constant",
+                        "done": false
+                    },
+                    {
+                        "id": "t_45",
+                        "title": "Zero and first-order reactions, half-lives",
+                        "done": false
+                    },
+                    {
+                        "id": "t_46",
+                        "title": "Arrhenius theory, activation energy",
+                        "done": false
+                    },
+                    {
+                        "id": "t_47",
+                        "title": "Collision theory",
+                        "done": false
+                    }
+                ]
+            },
+            {
+                "id": "c_9",
+                "title": "Classification of Elements and Periodicity in Properties",
+                "topics": [
+                    {
+                        "id": "t_48",
+                        "title": "Modern periodic law",
+                        "done": false
+                    },
+                    {
+                        "id": "t_49",
+                        "title": "s, p, d and f block elements",
+                        "done": false
+                    },
+                    {
+                        "id": "t_50",
+                        "title": "Periodic trends (atomic radii, ionization enthalpy, etc.)",
+                        "done": false
+                    }
+                ]
+            },
+            {
+                "id": "c_10",
+                "title": "p- Block Elements",
+                "topics": [
+                    {
+                        "id": "t_51",
+                        "title": "Group 13 to Group 18 Elements",
+                        "done": false
+                    },
+                    {
+                        "id": "t_52",
+                        "title": "General trends in properties",
+                        "done": false
+                    }
+                ]
+            },
+            {
+                "id": "c_11",
+                "title": "d- and f- Block Elements",
+                "topics": [
+                    {
+                        "id": "t_53",
+                        "title": "Transition Elements: properties",
+                        "done": false
+                    },
+                    {
+                        "id": "t_54",
+                        "title": "Preparation, properties, uses of K2Cr2O7 and KMnO4",
+                        "done": false
+                    },
+                    {
+                        "id": "t_55",
+                        "title": "Lanthanoids and Actinoids (Lanthanoid contraction)",
+                        "done": false
+                    }
+                ]
+            },
+            {
+                "id": "c_12",
+                "title": "Coordination Compounds",
+                "topics": [
+                    {
+                        "id": "t_56",
+                        "title": "Werner's theory, ligands, coordination number",
+                        "done": false
+                    },
+                    {
+                        "id": "t_57",
+                        "title": "IUPAC nomenclature, isomerism",
+                        "done": false
+                    },
+                    {
+                        "id": "t_58",
+                        "title": "Valence bond approach, Crystal field theory",
+                        "done": false
+                    }
+                ]
+            },
+            {
+                "id": "c_13",
+                "title": "Purification and Characterisation of Organic Compounds",
+                "topics": [
+                    {
+                        "id": "t_59",
+                        "title": "Purification methods (crystallization, distillation, etc.)",
+                        "done": false
+                    },
+                    {
+                        "id": "t_60",
+                        "title": "Qualitative analysis (detection of elements)",
+                        "done": false
+                    },
+                    {
+                        "id": "t_61",
+                        "title": "Quantitative analysis",
+                        "done": false
+                    }
+                ]
+            },
+            {
+                "id": "c_14",
+                "title": "Some Basic Principles of Organic Chemistry",
+                "topics": [
+                    {
+                        "id": "t_62",
+                        "title": "Tetravalency of carbon, hybridization",
+                        "done": false
+                    },
+                    {
+                        "id": "t_63",
+                        "title": "Nomenclature",
+                        "done": false
+                    },
+                    {
+                        "id": "t_64",
+                        "title": "Electronic displacement (Inductive, electromeric, resonance)",
+                        "done": false
+                    },
+                    {
+                        "id": "t_65",
+                        "title": "Bond fission (carbocations, carbanions, free radicals)",
+                        "done": false
+                    }
+                ]
+            },
+            {
+                "id": "c_15",
+                "title": "Hydrocarbons",
+                "topics": [
+                    {
+                        "id": "t_66",
+                        "title": "Alkanes (conformations, halogenation)",
+                        "done": false
+                    },
+                    {
+                        "id": "t_67",
+                        "title": "Alkenes (Markownikoffs rule, ozonolysis)",
+                        "done": false
+                    },
+                    {
+                        "id": "t_68",
+                        "title": "Alkynes (acidic character)",
+                        "done": false
+                    },
+                    {
+                        "id": "t_69",
+                        "title": "Aromatic hydrocarbons (Benzene structure, reactions)",
+                        "done": false
+                    }
+                ]
+            },
+            {
+                "id": "c_16",
+                "title": "Organic Compounds Containing Halogens",
+                "topics": [
+                    {
+                        "id": "t_70",
+                        "title": "Preparation, properties and reactions",
+                        "done": false
+                    },
+                    {
+                        "id": "t_71",
+                        "title": "Mechanisms of substitution reactions",
+                        "done": false
+                    }
+                ]
+            },
+            {
+                "id": "c_17",
+                "title": "Organic Compounds Containing Oxygen",
+                "topics": [
+                    {
+                        "id": "t_72",
+                        "title": "Alcohols, Phenols and Ethers",
+                        "done": false
+                    },
+                    {
+                        "id": "t_73",
+                        "title": "Aldehydes and Ketones (Nucleophilic addition, tests)",
+                        "done": false
+                    },
+                    {
+                        "id": "t_74",
+                        "title": "Carboxylic Acids (Acidic strength)",
+                        "done": false
+                    }
+                ]
+            },
+            {
+                "id": "c_18",
+                "title": "Organic Compounds Containing Nitrogen",
+                "topics": [
+                    {
+                        "id": "t_75",
+                        "title": "Amines (classification, basic character)",
+                        "done": false
+                    },
+                    {
+                        "id": "t_76",
+                        "title": "Diazonium Salts",
+                        "done": false
+                    }
+                ]
+            },
+            {
+                "id": "c_19",
+                "title": "Biomolecules",
+                "topics": [
+                    {
+                        "id": "t_77",
+                        "title": "Carbohydrates (Classification, structure)",
+                        "done": false
+                    },
+                    {
+                        "id": "t_78",
+                        "title": "Proteins (Amino acids, structure, enzymes)",
+                        "done": false
+                    },
+                    {
+                        "id": "t_79",
+                        "title": "Vitamins, Nucleic Acids (DNA & RNA)",
+                        "done": false
+                    }
+                ]
+            },
+            {
+                "id": "c_20",
+                "title": "Principles Related to Practical Chemistry",
+                "topics": [
+                    {
+                        "id": "t_80",
+                        "title": "Detection of functional groups",
+                        "done": false
+                    },
+                    {
+                        "id": "t_81",
+                        "title": "Titrimetric exercises",
+                        "done": false
+                    },
+                    {
+                        "id": "t_82",
+                        "title": "Qualitative salt analysis",
+                        "done": false
+                    }
+                ]
+            }
         ]
-      },
-      {
-        "id": "c_2",
-        "title": "Arrays",
-        "topics": [
-          {
-            "id": "t_11",
-            "title": "Two Sum",
-            "done": false
-          },
-          {
-            "id": "t_12",
-            "title": "Remove Duplicates from Sorted Array",
-            "done": false
-          },
-          {
-            "id": "t_13",
-            "title": "Remove Element",
-            "done": false
-          },
-          {
-            "id": "t_14",
-            "title": "Merge Sorted Array",
-            "done": false
-          },
-          {
-            "id": "t_15",
-            "title": "Best Time to Buy and Sell Stock",
-            "done": false
-          },
-          {
-            "id": "t_16",
-            "title": "Contains Duplicate",
-            "done": false
-          },
-          {
-            "id": "t_17",
-            "title": "Majority Element",
-            "done": false
-          },
-          {
-            "id": "t_18",
-            "title": "Move Zeroes",
-            "done": false
-          },
-          {
-            "id": "t_19",
-            "title": "Third Maximum Number",
-            "done": false
-          },
-          {
-            "id": "t_20",
-            "title": "Find Pivot Index",
-            "done": false
-          },
-          {
-            "id": "t_21",
-            "title": "Summary Ranges",
-            "done": false
-          },
-          {
-            "id": "t_22",
-            "title": "Product of Array Except Self",
-            "done": false
-          },
-          {
-            "id": "t_23",
-            "title": "Maximum Product Subarray",
-            "done": false
-          },
-          {
-            "id": "t_24",
-            "title": "Maximum Subarray",
-            "done": false
-          },
-          {
-            "id": "t_25",
-            "title": "Find All Numbers Disappeared in an Array",
-            "done": false
-          },
-          {
-            "id": "t_26",
-            "title": "Find the Duplicate Number",
-            "done": false
-          },
-          {
-            "id": "t_27",
-            "title": "Set Matrix Zeroes",
-            "done": false
-          },
-          {
-            "id": "t_28",
-            "title": "Rotate Image",
-            "done": false
-          },
-          {
-            "id": "t_29",
-            "title": "Spiral Matrix",
-            "done": false
-          },
-          {
-            "id": "t_30",
-            "title": "Spiral Matrix II",
-            "done": false
-          },
-          {
-            "id": "t_31",
-            "title": "Rotate Array",
-            "done": false
-          },
-          {
-            "id": "t_32",
-            "title": "Sort Colors",
-            "done": false
-          },
-          {
-            "id": "t_33",
-            "title": "Next Permutation",
-            "done": false
-          },
-          {
-            "id": "t_34",
-            "title": "First Missing Positive",
-            "done": false
-          },
-          {
-            "id": "t_35",
-            "title": "Game of Life",
-            "done": false
-          },
-          {
-            "id": "t_36",
-            "title": "Gas Station",
-            "done": false
-          },
-          {
-            "id": "t_37",
-            "title": "Candy",
-            "done": false
-          },
-          {
-            "id": "t_38",
-            "title": "Trapping Rain Water",
-            "done": false
-          },
-          {
-            "id": "t_39",
-            "title": "Jump Game",
-            "done": false
-          },
-          {
-            "id": "t_40",
-            "title": "Jump Game II",
-            "done": false
-          }
-        ]
-      },
-      {
-        "id": "c_3",
-        "title": "Strings",
-        "topics": [
-          {
-            "id": "t_41",
-            "title": "Valid Anagram",
-            "done": false
-          },
-          {
-            "id": "t_42",
-            "title": "Valid Palindrome",
-            "done": false
-          },
-          {
-            "id": "t_43",
-            "title": "Reverse String",
-            "done": false
-          },
-          {
-            "id": "t_44",
-            "title": "Reverse Words in a String III",
-            "done": false
-          },
-          {
-            "id": "t_45",
-            "title": "Reverse Words in a String",
-            "done": false
-          },
-          {
-            "id": "t_46",
-            "title": "Length of Last Word",
-            "done": false
-          },
-          {
-            "id": "t_47",
-            "title": "Longest Common Prefix",
-            "done": false
-          },
-          {
-            "id": "t_48",
-            "title": "Implement strStr()",
-            "done": false
-          },
-          {
-            "id": "t_49",
-            "title": "Is Subsequence",
-            "done": false
-          },
-          {
-            "id": "t_50",
-            "title": "String Compression",
-            "done": false
-          },
-          {
-            "id": "t_51",
-            "title": "Count and Say",
-            "done": false
-          },
-          {
-            "id": "t_52",
-            "title": "Multiply Strings",
-            "done": false
-          },
-          {
-            "id": "t_53",
-            "title": "Add Strings",
-            "done": false
-          },
-          {
-            "id": "t_54",
-            "title": "Zigzag Conversion",
-            "done": false
-          },
-          {
-            "id": "t_55",
-            "title": "Integer to Roman",
-            "done": false
-          },
-          {
-            "id": "t_56",
-            "title": "Longest Palindromic Substring",
-            "done": false
-          },
-          {
-            "id": "t_57",
-            "title": "Longest Happy Prefix",
-            "done": false
-          },
-          {
-            "id": "t_58",
-            "title": "Shortest Palindrome",
-            "done": false
-          },
-          {
-            "id": "t_59",
-            "title": "Decode String",
-            "done": false
-          },
-          {
-            "id": "t_60",
-            "title": "Minimum Remove to Make Valid Parentheses",
-            "done": false
-          }
-        ]
-      },
-      {
-        "id": "c_4",
-        "title": "Hashing",
-        "topics": [
-          {
-            "id": "t_61",
-            "title": "Contains Duplicate",
-            "done": false
-          },
-          {
-            "id": "t_62",
-            "title": "Contains Duplicate II",
-            "done": false
-          },
-          {
-            "id": "t_63",
-            "title": "Intersection of Two Arrays",
-            "done": false
-          },
-          {
-            "id": "t_64",
-            "title": "Intersection of Two Arrays II",
-            "done": false
-          },
-          {
-            "id": "t_65",
-            "title": "Single Number",
-            "done": false
-          },
-          {
-            "id": "t_66",
-            "title": "Single Number II",
-            "done": false
-          },
-          {
-            "id": "t_67",
-            "title": "Happy Number",
-            "done": false
-          },
-          {
-            "id": "t_68",
-            "title": "Isomorphic Strings",
-            "done": false
-          },
-          {
-            "id": "t_69",
-            "title": "Word Pattern",
-            "done": false
-          },
-          {
-            "id": "t_70",
-            "title": "Find the Difference",
-            "done": false
-          },
-          {
-            "id": "t_71",
-            "title": "Ransom Note",
-            "done": false
-          },
-          {
-            "id": "t_72",
-            "title": "Group Anagrams",
-            "done": false
-          },
-          {
-            "id": "t_73",
-            "title": "Top K Frequent Elements",
-            "done": false
-          },
-          {
-            "id": "t_74",
-            "title": "Longest Consecutive Sequence",
-            "done": false
-          },
-          {
-            "id": "t_75",
-            "title": "Find All Anagrams in a String",
-            "done": false
-          },
-          {
-            "id": "t_76",
-            "title": "Subarray Sum Equals K",
-            "done": false
-          },
-          {
-            "id": "t_77",
-            "title": "Continuous Subarray Sum",
-            "done": false
-          },
-          {
-            "id": "t_78",
-            "title": "4Sum II",
-            "done": false
-          },
-          {
-            "id": "t_79",
-            "title": "Longest Substring Without Repeating Characters",
-            "done": false
-          },
-          {
-            "id": "t_80",
-            "title": "Minimum Window Substring",
-            "done": false
-          }
-        ]
-      },
-      {
-        "id": "c_5",
-        "title": "Two Pointers",
-        "topics": [
-          {
-            "id": "t_81",
-            "title": "Valid Palindrome II",
-            "done": false
-          },
-          {
-            "id": "t_82",
-            "title": "Merge Sorted Array",
-            "done": false
-          },
-          {
-            "id": "t_83",
-            "title": "Squares of a Sorted Array",
-            "done": false
-          },
-          {
-            "id": "t_84",
-            "title": "Two Sum II - Input Array Is Sorted",
-            "done": false
-          },
-          {
-            "id": "t_85",
-            "title": "Remove Duplicates from Sorted Array",
-            "done": false
-          },
-          {
-            "id": "t_86",
-            "title": "Remove Duplicates from Sorted Array II",
-            "done": false
-          },
-          {
-            "id": "t_87",
-            "title": "Move Zeroes",
-            "done": false
-          },
-          {
-            "id": "t_88",
-            "title": "Container With Most Water",
-            "done": false
-          },
-          {
-            "id": "t_89",
-            "title": "3Sum",
-            "done": false
-          },
-          {
-            "id": "t_90",
-            "title": "3Sum Closest",
-            "done": false
-          },
-          {
-            "id": "t_91",
-            "title": "4Sum",
-            "done": false
-          },
-          {
-            "id": "t_92",
-            "title": "Sort Colors",
-            "done": false
-          },
-          {
-            "id": "t_93",
-            "title": "Partition Labels",
-            "done": false
-          },
-          {
-            "id": "t_94",
-            "title": "Boats to Save People",
-            "done": false
-          },
-          {
-            "id": "t_95",
-            "title": "Bag of Tokens",
-            "done": false
-          },
-          {
-            "id": "t_96",
-            "title": "Trapping Rain Water",
-            "done": false
-          },
-          {
-            "id": "t_97",
-            "title": "Backspace String Compare",
-            "done": false
-          },
-          {
-            "id": "t_98",
-            "title": "Append Characters to String to Make Subsequence",
-            "done": false
-          },
-          {
-            "id": "t_99",
-            "title": "Shortest Unsorted Continuous Subarray",
-            "done": false
-          },
-          {
-            "id": "t_100",
-            "title": "Minimum Length of String After Deleting Similar Ends",
-            "done": false
-          }
-        ]
-      },
-      {
-        "id": "c_6",
-        "title": "Sliding Window",
-        "topics": [
-          {
-            "id": "t_101",
-            "title": "Maximum Average Subarray I",
-            "done": false
-          },
-          {
-            "id": "t_102",
-            "title": "Maximum Number of Vowels in a Substring of Given Length",
-            "done": false
-          },
-          {
-            "id": "t_103",
-            "title": "Permutation in String",
-            "done": false
-          },
-          {
-            "id": "t_104",
-            "title": "Find All Anagrams in a String",
-            "done": false
-          },
-          {
-            "id": "t_105",
-            "title": "Longest Substring Without Repeating Characters",
-            "done": false
-          },
-          {
-            "id": "t_106",
-            "title": "Longest Repeating Character Replacement",
-            "done": false
-          },
-          {
-            "id": "t_107",
-            "title": "Minimum Size Subarray Sum",
-            "done": false
-          },
-          {
-            "id": "t_108",
-            "title": "Minimum Window Substring",
-            "done": false
-          },
-          {
-            "id": "t_109",
-            "title": "Subarrays with K Different Integers",
-            "done": false
-          },
-          {
-            "id": "t_110",
-            "title": "Binary Subarrays With Sum",
-            "done": false
-          },
-          {
-            "id": "t_111",
-            "title": "Fruit Into Baskets",
-            "done": false
-          },
-          {
-            "id": "t_112",
-            "title": "Max Consecutive Ones III",
-            "done": false
-          },
-          {
-            "id": "t_113",
-            "title": "Grumpy Bookstore Owner",
-            "done": false
-          },
-          {
-            "id": "t_114",
-            "title": "Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit",
-            "done": false
-          },
-          {
-            "id": "t_115",
-            "title": "Sliding Window Maximum",
-            "done": false
-          },
-          {
-            "id": "t_116",
-            "title": "Count Number of Nice Subarrays",
-            "done": false
-          },
-          {
-            "id": "t_117",
-            "title": "Number of Substrings Containing All Three Characters",
-            "done": false
-          },
-          {
-            "id": "t_118",
-            "title": "Maximum Erasure Value",
-            "done": false
-          },
-          {
-            "id": "t_119",
-            "title": "Get Equal Substrings Within Budget",
-            "done": false
-          },
-          {
-            "id": "t_120",
-            "title": "Frequency of the Most Frequent Element",
-            "done": false
-          }
-        ]
-      },
-      {
-        "id": "c_7",
-        "title": "Prefix Sum",
-        "topics": [
-          {
-            "id": "t_121",
-            "title": "Range Sum Query - Immutable",
-            "done": false
-          },
-          {
-            "id": "t_122",
-            "title": "Running Sum of 1d Array",
-            "done": false
-          },
-          {
-            "id": "t_123",
-            "title": "Find Pivot Index",
-            "done": false
-          },
-          {
-            "id": "t_124",
-            "title": "Find the Highest Altitude",
-            "done": false
-          },
-          {
-            "id": "t_125",
-            "title": "Subarray Sum Equals K",
-            "done": false
-          },
-          {
-            "id": "t_126",
-            "title": "Continuous Subarray Sum",
-            "done": false
-          },
-          {
-            "id": "t_127",
-            "title": "Maximum Size Subarray Sum Equals k",
-            "done": false
-          },
-          {
-            "id": "t_128",
-            "title": "Product of Array Except Self",
-            "done": false
-          },
-          {
-            "id": "t_129",
-            "title": "Corporate Flight Bookings",
-            "done": false
-          },
-          {
-            "id": "t_130",
-            "title": "Car Pooling",
-            "done": false
-          }
-        ]
-      },
-      {
-        "id": "c_8",
-        "title": "Binary Search",
-        "topics": [
-          {
-            "id": "t_131",
-            "title": "Binary Search",
-            "done": false
-          },
-          {
-            "id": "t_132",
-            "title": "Search Insert Position",
-            "done": false
-          },
-          {
-            "id": "t_133",
-            "title": "Guess Number Higher or Lower",
-            "done": false
-          },
-          {
-            "id": "t_134",
-            "title": "First Bad Version",
-            "done": false
-          },
-          {
-            "id": "t_135",
-            "title": "Valid Perfect Square",
-            "done": false
-          },
-          {
-            "id": "t_136",
-            "title": "Arranging Coins",
-            "done": false
-          },
-          {
-            "id": "t_137",
-            "title": "Search a 2D Matrix",
-            "done": false
-          },
-          {
-            "id": "t_138",
-            "title": "Search in Rotated Sorted Array",
-            "done": false
-          },
-          {
-            "id": "t_139",
-            "title": "Find Minimum in Rotated Sorted Array",
-            "done": false
-          },
-          {
-            "id": "t_140",
-            "title": "Find Peak Element",
-            "done": false
-          },
-          {
-            "id": "t_141",
-            "title": "Search in Rotated Sorted Array II",
-            "done": false
-          },
-          {
-            "id": "t_142",
-            "title": "Find First and Last Position of Element in Sorted Array",
-            "done": false
-          },
-          {
-            "id": "t_143",
-            "title": "Koko Eating Bananas",
-            "done": false
-          },
-          {
-            "id": "t_144",
-            "title": "Capacity To Ship Packages Within D Days",
-            "done": false
-          },
-          {
-            "id": "t_145",
-            "title": "Split Array Largest Sum",
-            "done": false
-          },
-          {
-            "id": "t_146",
-            "title": "Minimum Number of Days to Make m Bouquets",
-            "done": false
-          },
-          {
-            "id": "t_147",
-            "title": "Magnetic Force Between Two Balls",
-            "done": false
-          },
-          {
-            "id": "t_148",
-            "title": "Median of Two Sorted Arrays",
-            "done": false
-          },
-          {
-            "id": "t_149",
-            "title": "Find K Closest Elements",
-            "done": false
-          },
-          {
-            "id": "t_150",
-            "title": "Time Based Key-Value Store",
-            "done": false
-          }
-        ]
-      },
-      {
-        "id": "c_9",
-        "title": "Sorting",
-        "topics": [
-          {
-            "id": "t_151",
-            "title": "Sort an Array",
-            "done": false
-          },
-          {
-            "id": "t_152",
-            "title": "Sort Colors",
-            "done": false
-          },
-          {
-            "id": "t_153",
-            "title": "Merge Intervals",
-            "done": false
-          },
-          {
-            "id": "t_154",
-            "title": "Insert Interval",
-            "done": false
-          },
-          {
-            "id": "t_155",
-            "title": "Meeting Rooms",
-            "done": false
-          },
-          {
-            "id": "t_156",
-            "title": "Meeting Rooms II",
-            "done": false
-          },
-          {
-            "id": "t_157",
-            "title": "Largest Number",
-            "done": false
-          },
-          {
-            "id": "t_158",
-            "title": "Relative Sort Array",
-            "done": false
-          },
-          {
-            "id": "t_159",
-            "title": "Sort Characters By Frequency",
-            "done": false
-          },
-          {
-            "id": "t_160",
-            "title": "Queue Reconstruction by Height",
-            "done": false
-          }
-        ]
-      },
-      {
-        "id": "c_10",
-        "title": "Stack",
-        "topics": [
-          {
-            "id": "t_161",
-            "title": "Valid Parentheses",
-            "done": false
-          },
-          {
-            "id": "t_162",
-            "title": "Min Stack",
-            "done": false
-          },
-          {
-            "id": "t_163",
-            "title": "Baseball Game",
-            "done": false
-          },
-          {
-            "id": "t_164",
-            "title": "Remove All Adjacent Duplicates In String",
-            "done": false
-          },
-          {
-            "id": "t_165",
-            "title": "Next Greater Element I",
-            "done": false
-          },
-          {
-            "id": "t_166",
-            "title": "Next Greater Element II",
-            "done": false
-          },
-          {
-            "id": "t_167",
-            "title": "Daily Temperatures",
-            "done": false
-          },
-          {
-            "id": "t_168",
-            "title": "Asteroid Collision",
-            "done": false
-          },
-          {
-            "id": "t_169",
-            "title": "Evaluate Reverse Polish Notation",
-            "done": false
-          },
-          {
-            "id": "t_170",
-            "title": "Decode String",
-            "done": false
-          },
-          {
-            "id": "t_171",
-            "title": "Largest Rectangle in Histogram",
-            "done": false
-          },
-          {
-            "id": "t_172",
-            "title": "Maximal Rectangle",
-            "done": false
-          },
-          {
-            "id": "t_173",
-            "title": "Basic Calculator",
-            "done": false
-          },
-          {
-            "id": "t_174",
-            "title": "Remove K Digits",
-            "done": false
-          },
-          {
-            "id": "t_175",
-            "title": "Simplify Path",
-            "done": false
-          }
-        ]
-      },
-      {
-        "id": "c_11",
-        "title": "Queue & Deque",
-        "topics": [
-          {
-            "id": "t_176",
-            "title": "Implement Queue using Stacks",
-            "done": false
-          },
-          {
-            "id": "t_177",
-            "title": "Implement Stack using Queues",
-            "done": false
-          },
-          {
-            "id": "t_178",
-            "title": "Number of Recent Calls",
-            "done": false
-          },
-          {
-            "id": "t_179",
-            "title": "Design Circular Queue",
-            "done": false
-          },
-          {
-            "id": "t_180",
-            "title": "Design Circular Deque",
-            "done": false
-          },
-          {
-            "id": "t_181",
-            "title": "Moving Average from Data Stream",
-            "done": false
-          },
-          {
-            "id": "t_182",
-            "title": "Dota2 Senate",
-            "done": false
-          },
-          {
-            "id": "t_183",
-            "title": "Sliding Window Maximum",
-            "done": false
-          },
-          {
-            "id": "t_184",
-            "title": "Shortest Subarray with Sum at Least K",
-            "done": false
-          },
-          {
-            "id": "t_185",
-            "title": "Constrained Subsequence Sum",
-            "done": false
-          }
-        ]
-      },
-      {
-        "id": "c_12",
-        "title": "Linked List",
-        "topics": [
-          {
-            "id": "t_186",
-            "title": "Reverse Linked List",
-            "done": false
-          },
-          {
-            "id": "t_187",
-            "title": "Reverse Linked List II",
-            "done": false
-          },
-          {
-            "id": "t_188",
-            "title": "Middle of the Linked List",
-            "done": false
-          },
-          {
-            "id": "t_189",
-            "title": "Linked List Cycle",
-            "done": false
-          },
-          {
-            "id": "t_190",
-            "title": "Linked List Cycle II",
-            "done": false
-          },
-          {
-            "id": "t_191",
-            "title": "Merge Two Sorted Lists",
-            "done": false
-          },
-          {
-            "id": "t_192",
-            "title": "Merge k Sorted Lists",
-            "done": false
-          },
-          {
-            "id": "t_193",
-            "title": "Remove Nth Node From End of List",
-            "done": false
-          },
-          {
-            "id": "t_194",
-            "title": "Delete Node in a Linked List",
-            "done": false
-          },
-          {
-            "id": "t_195",
-            "title": "Intersection of Two Linked Lists",
-            "done": false
-          },
-          {
-            "id": "t_196",
-            "title": "Palindrome Linked List",
-            "done": false
-          },
-          {
-            "id": "t_197",
-            "title": "Reorder List",
-            "done": false
-          },
-          {
-            "id": "t_198",
-            "title": "Swap Nodes in Pairs",
-            "done": false
-          },
-          {
-            "id": "t_199",
-            "title": "Rotate List",
-            "done": false
-          },
-          {
-            "id": "t_200",
-            "title": "Partition List",
-            "done": false
-          },
-          {
-            "id": "t_201",
-            "title": "Add Two Numbers",
-            "done": false
-          },
-          {
-            "id": "t_202",
-            "title": "Copy List with Random Pointer",
-            "done": false
-          },
-          {
-            "id": "t_203",
-            "title": "Flatten a Multilevel Doubly Linked List",
-            "done": false
-          },
-          {
-            "id": "t_204",
-            "title": "Sort List",
-            "done": false
-          },
-          {
-            "id": "t_205",
-            "title": "LRU Cache",
-            "done": false
-          }
-        ]
-      },
-      {
-        "id": "c_13",
-        "title": "Recursion",
-        "topics": [
-          {
-            "id": "t_206",
-            "title": "Fibonacci Number",
-            "done": false
-          },
-          {
-            "id": "t_207",
-            "title": "Pow(x, n)",
-            "done": false
-          },
-          {
-            "id": "t_208",
-            "title": "Pascal's Triangle II",
-            "done": false
-          },
-          {
-            "id": "t_209",
-            "title": "K-th Symbol in Grammar",
-            "done": false
-          },
-          {
-            "id": "t_210",
-            "title": "Different Ways to Add Parentheses",
-            "done": false
-          },
-          {
-            "id": "t_211",
-            "title": "Generate Parentheses",
-            "done": false
-          },
-          {
-            "id": "t_212",
-            "title": "Letter Combinations of a Phone Number",
-            "done": false
-          },
-          {
-            "id": "t_213",
-            "title": "Binary Tree Paths",
-            "done": false
-          },
-          {
-            "id": "t_214",
-            "title": "Unique Binary Search Trees II",
-            "done": false
-          },
-          {
-            "id": "t_215",
-            "title": "Recursive Multiply Strings",
-            "done": false
-          }
-        ]
-      },
-      {
-        "id": "c_14",
-        "title": "Backtracking",
-        "topics": [
-          {
-            "id": "t_216",
-            "title": "Subsets",
-            "done": false
-          },
-          {
-            "id": "t_217",
-            "title": "Subsets II",
-            "done": false
-          },
-          {
-            "id": "t_218",
-            "title": "Permutations",
-            "done": false
-          },
-          {
-            "id": "t_219",
-            "title": "Permutations II",
-            "done": false
-          },
-          {
-            "id": "t_220",
-            "title": "Combinations",
-            "done": false
-          },
-          {
-            "id": "t_221",
-            "title": "Combination Sum",
-            "done": false
-          },
-          {
-            "id": "t_222",
-            "title": "Combination Sum II",
-            "done": false
-          },
-          {
-            "id": "t_223",
-            "title": "Combination Sum III",
-            "done": false
-          },
-          {
-            "id": "t_224",
-            "title": "Letter Combinations of a Phone Number",
-            "done": false
-          },
-          {
-            "id": "t_225",
-            "title": "Generate Parentheses",
-            "done": false
-          },
-          {
-            "id": "t_226",
-            "title": "Palindrome Partitioning",
-            "done": false
-          },
-          {
-            "id": "t_227",
-            "title": "Restore IP Addresses",
-            "done": false
-          },
-          {
-            "id": "t_228",
-            "title": "Word Search",
-            "done": false
-          },
-          {
-            "id": "t_229",
-            "title": "N-Queens",
-            "done": false
-          },
-          {
-            "id": "t_230",
-            "title": "Sudoku Solver",
-            "done": false
-          }
-        ]
-      },
-      {
-        "id": "c_15",
-        "title": "Bit Manipulation",
-        "topics": [
-          {
-            "id": "t_231",
-            "title": "Number of 1 Bits",
-            "done": false
-          },
-          {
-            "id": "t_232",
-            "title": "Counting Bits",
-            "done": false
-          },
-          {
-            "id": "t_233",
-            "title": "Reverse Bits",
-            "done": false
-          },
-          {
-            "id": "t_234",
-            "title": "Single Number",
-            "done": false
-          },
-          {
-            "id": "t_235",
-            "title": "Single Number II",
-            "done": false
-          },
-          {
-            "id": "t_236",
-            "title": "Missing Number",
-            "done": false
-          },
-          {
-            "id": "t_237",
-            "title": "Power of Two",
-            "done": false
-          },
-          {
-            "id": "t_238",
-            "title": "Power of Four",
-            "done": false
-          },
-          {
-            "id": "t_239",
-            "title": "Bitwise AND of Numbers Range",
-            "done": false
-          },
-          {
-            "id": "t_240",
-            "title": "Sum of Two Integers",
-            "done": false
-          },
-          {
-            "id": "t_241",
-            "title": "UTF-8 Validation",
-            "done": false
-          },
-          {
-            "id": "t_242",
-            "title": "Maximum XOR of Two Numbers in an Array",
-            "done": false
-          },
-          {
-            "id": "t_243",
-            "title": "Minimum Flips to Make a OR b Equal to c",
-            "done": false
-          },
-          {
-            "id": "t_244",
-            "title": "Neighboring Bitwise XOR",
-            "done": false
-          },
-          {
-            "id": "t_245",
-            "title": "Decode XORed Array",
-            "done": false
-          }
-        ]
-      },
-      {
-        "id": "c_16",
-        "title": "Math",
-        "topics": [
-          {
-            "id": "t_246",
-            "title": "Reverse Integer",
-            "done": false
-          },
-          {
-            "id": "t_247",
-            "title": "Palindrome Number",
-            "done": false
-          },
-          {
-            "id": "t_248",
-            "title": "Plus One",
-            "done": false
-          },
-          {
-            "id": "t_249",
-            "title": "Excel Sheet Column Number",
-            "done": false
-          },
-          {
-            "id": "t_250",
-            "title": "Excel Sheet Column Title",
-            "done": false
-          },
-          {
-            "id": "t_251",
-            "title": "Add Digits",
-            "done": false
-          },
-          {
-            "id": "t_252",
-            "title": "Ugly Number",
-            "done": false
-          },
-          {
-            "id": "t_253",
-            "title": "Happy Number",
-            "done": false
-          },
-          {
-            "id": "t_254",
-            "title": "Pow(x, n)",
-            "done": false
-          },
-          {
-            "id": "t_255",
-            "title": "Integer Break",
-            "done": false
-          }
-        ]
-      },
-      {
-        "id": "c_17",
-        "title": "Greedy",
-        "topics": [
-          {
-            "id": "t_256",
-            "title": "Assign Cookies",
-            "done": false
-          },
-          {
-            "id": "t_257",
-            "title": "Lemonade Change",
-            "done": false
-          },
-          {
-            "id": "t_258",
-            "title": "Can Place Flowers",
-            "done": false
-          },
-          {
-            "id": "t_259",
-            "title": "Best Time to Buy and Sell Stock II",
-            "done": false
-          },
-          {
-            "id": "t_260",
-            "title": "Jump Game",
-            "done": false
-          },
-          {
-            "id": "t_261",
-            "title": "Jump Game II",
-            "done": false
-          },
-          {
-            "id": "t_262",
-            "title": "Gas Station",
-            "done": false
-          },
-          {
-            "id": "t_263",
-            "title": "Partition Labels",
-            "done": false
-          },
-          {
-            "id": "t_264",
-            "title": "Queue Reconstruction by Height",
-            "done": false
-          },
-          {
-            "id": "t_265",
-            "title": "Non-overlapping Intervals",
-            "done": false
-          },
-          {
-            "id": "t_266",
-            "title": "Merge Triplets to Form Target Triplet",
-            "done": false
-          },
-          {
-            "id": "t_267",
-            "title": "Task Scheduler",
-            "done": false
-          },
-          {
-            "id": "t_268",
-            "title": "Candy",
-            "done": false
-          },
-          {
-            "id": "t_269",
-            "title": "Minimum Number of Arrows to Burst Balloons",
-            "done": false
-          },
-          {
-            "id": "t_270",
-            "title": "Hand of Straights",
-            "done": false
-          },
-          {
-            "id": "t_271",
-            "title": "Bag of Tokens",
-            "done": false
-          },
-          {
-            "id": "t_272",
-            "title": "Maximum Units on a Truck",
-            "done": false
-          },
-          {
-            "id": "t_273",
-            "title": "Boats to Save People",
-            "done": false
-          },
-          {
-            "id": "t_274",
-            "title": "Wiggle Subsequence",
-            "done": false
-          },
-          {
-            "id": "t_275",
-            "title": "Remove K Digits",
-            "done": false
-          }
-        ]
-      },
-      {
-        "id": "c_18",
-        "title": "Heap / Priority Queue",
-        "topics": [
-          {
-            "id": "t_276",
-            "title": "Last Stone Weight",
-            "done": false
-          },
-          {
-            "id": "t_277",
-            "title": "Kth Largest Element in an Array",
-            "done": false
-          },
-          {
-            "id": "t_278",
-            "title": "Kth Largest Element in a Stream",
-            "done": false
-          },
-          {
-            "id": "t_279",
-            "title": "Top K Frequent Elements",
-            "done": false
-          },
-          {
-            "id": "t_280",
-            "title": "Top K Frequent Words",
-            "done": false
-          },
-          {
-            "id": "t_281",
-            "title": "K Closest Points to Origin",
-            "done": false
-          },
-          {
-            "id": "t_282",
-            "title": "Find Median from Data Stream",
-            "done": false
-          },
-          {
-            "id": "t_283",
-            "title": "Merge k Sorted Lists",
-            "done": false
-          },
-          {
-            "id": "t_284",
-            "title": "Meeting Rooms II",
-            "done": false
-          },
-          {
-            "id": "t_285",
-            "title": "Task Scheduler",
-            "done": false
-          },
-          {
-            "id": "t_286",
-            "title": "Reorganize String",
-            "done": false
-          },
-          {
-            "id": "t_287",
-            "title": "IPO",
-            "done": false
-          },
-          {
-            "id": "t_288",
-            "title": "Smallest Range Covering Elements from K Lists",
-            "done": false
-          },
-          {
-            "id": "t_289",
-            "title": "Maximum Performance of a Team",
-            "done": false
-          },
-          {
-            "id": "t_290",
-            "title": "Seat Reservation Manager",
-            "done": false
-          }
-        ]
-      },
-      {
-        "id": "c_19",
-        "title": "Binary Trees",
-        "topics": [
-          {
-            "id": "t_291",
-            "title": "Binary Tree Inorder Traversal",
-            "done": false
-          },
-          {
-            "id": "t_292",
-            "title": "Binary Tree Preorder Traversal",
-            "done": false
-          },
-          {
-            "id": "t_293",
-            "title": "Binary Tree Postorder Traversal",
-            "done": false
-          },
-          {
-            "id": "t_294",
-            "title": "Binary Tree Level Order Traversal",
-            "done": false
-          },
-          {
-            "id": "t_295",
-            "title": "Binary Tree Zigzag Level Order Traversal",
-            "done": false
-          },
-          {
-            "id": "t_296",
-            "title": "Maximum Depth of Binary Tree",
-            "done": false
-          },
-          {
-            "id": "t_297",
-            "title": "Minimum Depth of Binary Tree",
-            "done": false
-          },
-          {
-            "id": "t_298",
-            "title": "Same Tree",
-            "done": false
-          },
-          {
-            "id": "t_299",
-            "title": "Symmetric Tree",
-            "done": false
-          },
-          {
-            "id": "t_300",
-            "title": "Invert Binary Tree",
-            "done": false
-          },
-          {
-            "id": "t_301",
-            "title": "Balanced Binary Tree",
-            "done": false
-          },
-          {
-            "id": "t_302",
-            "title": "Diameter of Binary Tree",
-            "done": false
-          },
-          {
-            "id": "t_303",
-            "title": "Path Sum",
-            "done": false
-          },
-          {
-            "id": "t_304",
-            "title": "Path Sum II",
-            "done": false
-          },
-          {
-            "id": "t_305",
-            "title": "Binary Tree Right Side View",
-            "done": false
-          },
-          {
-            "id": "t_306",
-            "title": "Average of Levels in Binary Tree",
-            "done": false
-          },
-          {
-            "id": "t_307",
-            "title": "Count Complete Tree Nodes",
-            "done": false
-          },
-          {
-            "id": "t_308",
-            "title": "Binary Tree Maximum Path Sum",
-            "done": false
-          },
-          {
-            "id": "t_309",
-            "title": "Flatten Binary Tree to Linked List",
-            "done": false
-          },
-          {
-            "id": "t_310",
-            "title": "Construct Binary Tree from Preorder and Inorder Traversal",
-            "done": false
-          },
-          {
-            "id": "t_311",
-            "title": "Construct Binary Tree from Inorder and Postorder Traversal",
-            "done": false
-          },
-          {
-            "id": "t_312",
-            "title": "Populating Next Right Pointers in Each Node",
-            "done": false
-          },
-          {
-            "id": "t_313",
-            "title": "Lowest Common Ancestor of a Binary Tree",
-            "done": false
-          },
-          {
-            "id": "t_314",
-            "title": "Sum Root to Leaf Numbers",
-            "done": false
-          },
-          {
-            "id": "t_315",
-            "title": "Binary Tree Paths",
-            "done": false
-          },
-          {
-            "id": "t_316",
-            "title": "Find Bottom Left Tree Value",
-            "done": false
-          },
-          {
-            "id": "t_317",
-            "title": "Find Largest Value in Each Tree Row",
-            "done": false
-          },
-          {
-            "id": "t_318",
-            "title": "Even Odd Tree",
-            "done": false
-          },
-          {
-            "id": "t_319",
-            "title": "Leaf-Similar Trees",
-            "done": false
-          },
-          {
-            "id": "t_320",
-            "title": "House Robber III",
-            "done": false
-          },
-          {
-            "id": "t_321",
-            "title": "Serialize and Deserialize Binary Tree",
-            "done": false
-          },
-          {
-            "id": "t_322",
-            "title": "Validate Binary Tree Nodes",
-            "done": false
-          },
-          {
-            "id": "t_323",
-            "title": "All Nodes Distance K in Binary Tree",
-            "done": false
-          },
-          {
-            "id": "t_324",
-            "title": "Maximum Width of Binary Tree",
-            "done": false
-          },
-          {
-            "id": "t_325",
-            "title": "Vertical Order Traversal of a Binary Tree",
-            "done": false
-          }
-        ]
-      },
-      {
-        "id": "c_20",
-        "title": "Binary Search Trees",
-        "topics": [
-          {
-            "id": "t_326",
-            "title": "Search in a Binary Search Tree",
-            "done": false
-          },
-          {
-            "id": "t_327",
-            "title": "Insert into a Binary Search Tree",
-            "done": false
-          },
-          {
-            "id": "t_328",
-            "title": "Delete Node in a BST",
-            "done": false
-          },
-          {
-            "id": "t_329",
-            "title": "Validate Binary Search Tree",
-            "done": false
-          },
-          {
-            "id": "t_330",
-            "title": "Lowest Common Ancestor of a Binary Search Tree",
-            "done": false
-          },
-          {
-            "id": "t_331",
-            "title": "Kth Smallest Element in a BST",
-            "done": false
-          },
-          {
-            "id": "t_332",
-            "title": "Convert Sorted Array to Binary Search Tree",
-            "done": false
-          },
-          {
-            "id": "t_333",
-            "title": "Convert Sorted List to Binary Search Tree",
-            "done": false
-          },
-          {
-            "id": "t_334",
-            "title": "Minimum Absolute Difference in BST",
-            "done": false
-          },
-          {
-            "id": "t_335",
-            "title": "Range Sum of BST",
-            "done": false
-          },
-          {
-            "id": "t_336",
-            "title": "Trim a Binary Search Tree",
-            "done": false
-          },
-          {
-            "id": "t_337",
-            "title": "Recover Binary Search Tree",
-            "done": false
-          },
-          {
-            "id": "t_338",
-            "title": "Two Sum IV - Input is a BST",
-            "done": false
-          },
-          {
-            "id": "t_339",
-            "title": "Binary Search Tree Iterator",
-            "done": false
-          },
-          {
-            "id": "t_340",
-            "title": "Balance a Binary Search Tree",
-            "done": false
-          }
-        ]
-      },
-      {
-        "id": "c_21",
-        "title": "Trie",
-        "topics": [
-          {
-            "id": "t_341",
-            "title": "Implement Trie (Prefix Tree)",
-            "done": false
-          },
-          {
-            "id": "t_342",
-            "title": "Design Add and Search Words Data Structure",
-            "done": false
-          },
-          {
-            "id": "t_343",
-            "title": "Word Search II",
-            "done": false
-          },
-          {
-            "id": "t_344",
-            "title": "Replace Words",
-            "done": false
-          },
-          {
-            "id": "t_345",
-            "title": "Map Sum Pairs",
-            "done": false
-          },
-          {
-            "id": "t_346",
-            "title": "Longest Word in Dictionary",
-            "done": false
-          },
-          {
-            "id": "t_347",
-            "title": "Search Suggestions System",
-            "done": false
-          },
-          {
-            "id": "t_348",
-            "title": "Extra Characters in a String",
-            "done": false
-          },
-          {
-            "id": "t_349",
-            "title": "Longest Common Prefix",
-            "done": false
-          },
-          {
-            "id": "t_350",
-            "title": "Maximum XOR of Two Numbers in an Array",
-            "done": false
-          }
-        ]
-      },
-      {
-        "id": "c_22",
-        "title": "Graphs",
-        "topics": [
-          {
-            "id": "t_351",
-            "title": "Find if Path Exists in Graph",
-            "done": false
-          },
-          {
-            "id": "t_352",
-            "title": "Find the Town Judge",
-            "done": false
-          },
-          {
-            "id": "t_353",
-            "title": "Number of Provinces",
-            "done": false
-          },
-          {
-            "id": "t_354",
-            "title": "Number of Connected Components in an Undirected Graph",
-            "done": false
-          },
-          {
-            "id": "t_355",
-            "title": "Clone Graph",
-            "done": false
-          },
-          {
-            "id": "t_356",
-            "title": "Keys and Rooms",
-            "done": false
-          },
-          {
-            "id": "t_357",
-            "title": "All Paths From Source to Target",
-            "done": false
-          },
-          {
-            "id": "t_358",
-            "title": "Flood Fill",
-            "done": false
-          },
-          {
-            "id": "t_359",
-            "title": "Max Area of Island",
-            "done": false
-          },
-          {
-            "id": "t_360",
-            "title": "Number of Islands",
-            "done": false
-          },
-          {
-            "id": "t_361",
-            "title": "Surrounded Regions",
-            "done": false
-          },
-          {
-            "id": "t_362",
-            "title": "Rotting Oranges",
-            "done": false
-          },
-          {
-            "id": "t_363",
-            "title": "Pacific Atlantic Water Flow",
-            "done": false
-          },
-          {
-            "id": "t_364",
-            "title": "Course Schedule",
-            "done": false
-          },
-          {
-            "id": "t_365",
-            "title": "Course Schedule II",
-            "done": false
-          },
-          {
-            "id": "t_366",
-            "title": "Is Graph Bipartite?",
-            "done": false
-          },
-          {
-            "id": "t_367",
-            "title": "Possible Bipartition",
-            "done": false
-          },
-          {
-            "id": "t_368",
-            "title": "Reorder Routes to Make All Paths Lead to the City Zero",
-            "done": false
-          },
-          {
-            "id": "t_369",
-            "title": "Minimum Height Trees",
-            "done": false
-          },
-          {
-            "id": "t_370",
-            "title": "Redundant Connection",
-            "done": false
-          },
-          {
-            "id": "t_371",
-            "title": "Evaluate Division",
-            "done": false
-          },
-          {
-            "id": "t_372",
-            "title": "Network Delay Time",
-            "done": false
-          },
-          {
-            "id": "t_373",
-            "title": "Cheapest Flights Within K Stops",
-            "done": false
-          },
-          {
-            "id": "t_374",
-            "title": "Path With Minimum Effort",
-            "done": false
-          },
-          {
-            "id": "t_375",
-            "title": "Swim in Rising Water",
-            "done": false
-          },
-          {
-            "id": "t_376",
-            "title": "Open the Lock",
-            "done": false
-          },
-          {
-            "id": "t_377",
-            "title": "Word Ladder",
-            "done": false
-          },
-          {
-            "id": "t_378",
-            "title": "Word Ladder II",
-            "done": false
-          },
-          {
-            "id": "t_379",
-            "title": "Alien Dictionary",
-            "done": false
-          },
-          {
-            "id": "t_380",
-            "title": "Reconstruct Itinerary",
-            "done": false
-          },
-          {
-            "id": "t_381",
-            "title": "Critical Connections in a Network",
-            "done": false
-          },
-          {
-            "id": "t_382",
-            "title": "Shortest Path in Binary Matrix",
-            "done": false
-          },
-          {
-            "id": "t_383",
-            "title": "As Far from Land as Possible",
-            "done": false
-          },
-          {
-            "id": "t_384",
-            "title": "Snakes and Ladders",
-            "done": false
-          },
-          {
-            "id": "t_385",
-            "title": "Bus Routes",
-            "done": false
-          }
-        ]
-      },
-      {
-        "id": "c_23",
-        "title": "Dynamic Programming",
-        "topics": [
-          {
-            "id": "t_386",
-            "title": "Fibonacci Number",
-            "done": false
-          },
-          {
-            "id": "t_387",
-            "title": "Climbing Stairs",
-            "done": false
-          },
-          {
-            "id": "t_388",
-            "title": "Min Cost Climbing Stairs",
-            "done": false
-          },
-          {
-            "id": "t_389",
-            "title": "House Robber",
-            "done": false
-          },
-          {
-            "id": "t_390",
-            "title": "House Robber II",
-            "done": false
-          },
-          {
-            "id": "t_391",
-            "title": "Delete and Earn",
-            "done": false
-          },
-          {
-            "id": "t_392",
-            "title": "Coin Change",
-            "done": false
-          },
-          {
-            "id": "t_393",
-            "title": "Coin Change II",
-            "done": false
-          },
-          {
-            "id": "t_394",
-            "title": "Perfect Squares",
-            "done": false
-          },
-          {
-            "id": "t_395",
-            "title": "Combination Sum IV",
-            "done": false
-          },
-          {
-            "id": "t_396",
-            "title": "Unique Paths",
-            "done": false
-          },
-          {
-            "id": "t_397",
-            "title": "Unique Paths II",
-            "done": false
-          },
-          {
-            "id": "t_398",
-            "title": "Minimum Path Sum",
-            "done": false
-          },
-          {
-            "id": "t_399",
-            "title": "Triangle",
-            "done": false
-          },
-          {
-            "id": "t_400",
-            "title": "Maximum Product Subarray",
-            "done": false
-          },
-          {
-            "id": "t_401",
-            "title": "Maximum Subarray",
-            "done": false
-          },
-          {
-            "id": "t_402",
-            "title": "Longest Increasing Subsequence",
-            "done": false
-          },
-          {
-            "id": "t_403",
-            "title": "Number of Longest Increasing Subsequence",
-            "done": false
-          },
-          {
-            "id": "t_404",
-            "title": "Longest Common Subsequence",
-            "done": false
-          },
-          {
-            "id": "t_405",
-            "title": "Edit Distance",
-            "done": false
-          },
-          {
-            "id": "t_406",
-            "title": "Word Break",
-            "done": false
-          },
-          {
-            "id": "t_407",
-            "title": "Decode Ways",
-            "done": false
-          },
-          {
-            "id": "t_408",
-            "title": "Partition Equal Subset Sum",
-            "done": false
-          },
-          {
-            "id": "t_409",
-            "title": "Target Sum",
-            "done": false
-          },
-          {
-            "id": "t_410",
-            "title": "Longest Palindromic Subsequence",
-            "done": false
-          },
-          {
-            "id": "t_411",
-            "title": "Palindromic Substrings",
-            "done": false
-          },
-          {
-            "id": "t_412",
-            "title": "Interleaving String",
-            "done": false
-          },
-          {
-            "id": "t_413",
-            "title": "Distinct Subsequences",
-            "done": false
-          },
-          {
-            "id": "t_414",
-            "title": "Regular Expression Matching",
-            "done": false
-          },
-          {
-            "id": "t_415",
-            "title": "Wildcard Matching",
-            "done": false
-          },
-          {
-            "id": "t_416",
-            "title": "Jump Game VI",
-            "done": false
-          },
-          {
-            "id": "t_417",
-            "title": "Best Time to Buy and Sell Stock with Cooldown",
-            "done": false
-          },
-          {
-            "id": "t_418",
-            "title": "Best Time to Buy and Sell Stock III",
-            "done": false
-          },
-          {
-            "id": "t_419",
-            "title": "Best Time to Buy and Sell Stock IV",
-            "done": false
-          },
-          {
-            "id": "t_420",
-            "title": "Burst Balloons",
-            "done": false
-          },
-          {
-            "id": "t_421",
-            "title": "Stone Game",
-            "done": false
-          },
-          {
-            "id": "t_422",
-            "title": "Stone Game II",
-            "done": false
-          },
-          {
-            "id": "t_423",
-            "title": "Cherry Pickup",
-            "done": false
-          },
-          {
-            "id": "t_424",
-            "title": "Dungeon Game",
-            "done": false
-          },
-          {
-            "id": "t_425",
-            "title": "Minimum Falling Path Sum",
-            "done": false
-          },
-          {
-            "id": "t_426",
-            "title": "Maximal Square",
-            "done": false
-          },
-          {
-            "id": "t_427",
-            "title": "Ones and Zeroes",
-            "done": false
-          },
-          {
-            "id": "t_428",
-            "title": "Integer Break",
-            "done": false
-          },
-          {
-            "id": "t_429",
-            "title": "Paint House",
-            "done": false
-          },
-          {
-            "id": "t_430",
-            "title": "Paint Fence",
-            "done": false
-          },
-          {
-            "id": "t_431",
-            "title": "Super Egg Drop",
-            "done": false
-          },
-          {
-            "id": "t_432",
-            "title": "Strange Printer",
-            "done": false
-          },
-          {
-            "id": "t_433",
-            "title": "Remove Boxes",
-            "done": false
-          },
-          {
-            "id": "t_434",
-            "title": "Palindrome Partitioning II",
-            "done": false
-          },
-          {
-            "id": "t_435",
-            "title": "Count Different Palindromic Subsequences",
-            "done": false
-          }
-        ]
-      },
-      {
-        "id": "c_24",
-        "title": "Union Find (Disjoint Set Union)",
-        "topics": [
-          {
-            "id": "t_436",
-            "title": "Number of Connected Components in an Undirected Graph",
-            "done": false
-          },
-          {
-            "id": "t_437",
-            "title": "Number of Provinces",
-            "done": false
-          },
-          {
-            "id": "t_438",
-            "title": "Redundant Connection",
-            "done": false
-          },
-          {
-            "id": "t_439",
-            "title": "Redundant Connection II",
-            "done": false
-          },
-          {
-            "id": "t_440",
-            "title": "Graph Valid Tree",
-            "done": false
-          },
-          {
-            "id": "t_441",
-            "title": "Accounts Merge",
-            "done": false
-          },
-          {
-            "id": "t_442",
-            "title": "Satisfiability of Equality Equations",
-            "done": false
-          },
-          {
-            "id": "t_443",
-            "title": "Smallest String With Swaps",
-            "done": false
-          },
-          {
-            "id": "t_444",
-            "title": "Most Stones Removed with Same Row or Column",
-            "done": false
-          },
-          {
-            "id": "t_445",
-            "title": "Number of Operations to Make Network Connected",
-            "done": false
-          },
-          {
-            "id": "t_446",
-            "title": "Regions Cut By Slashes",
-            "done": false
-          },
-          {
-            "id": "t_447",
-            "title": "Min Cost to Connect All Points",
-            "done": false
-          },
-          {
-            "id": "t_448",
-            "title": "Checking Existence of Edge Length Limited Paths",
-            "done": false
-          },
-          {
-            "id": "t_449",
-            "title": "Remove Max Number of Edges to Keep Graph Fully Traversable",
-            "done": false
-          },
-          {
-            "id": "t_450",
-            "title": "Number of Good Paths",
-            "done": false
-          }
-        ]
-      },
-      {
-        "id": "c_25",
-        "title": "Topological Sort",
-        "topics": [
-          {
-            "id": "t_451",
-            "title": "Course Schedule",
-            "done": false
-          },
-          {
-            "id": "t_452",
-            "title": "Course Schedule II",
-            "done": false
-          },
-          {
-            "id": "t_453",
-            "title": "Parallel Courses",
-            "done": false
-          },
-          {
-            "id": "t_454",
-            "title": "Parallel Courses II",
-            "done": false
-          },
-          {
-            "id": "t_455",
-            "title": "Parallel Courses III",
-            "done": false
-          },
-          {
-            "id": "t_456",
-            "title": "Alien Dictionary",
-            "done": false
-          },
-          {
-            "id": "t_457",
-            "title": "Sequence Reconstruction",
-            "done": false
-          },
-          {
-            "id": "t_458",
-            "title": "Build a Matrix With Conditions",
-            "done": false
-          },
-          {
-            "id": "t_459",
-            "title": "Sort Items by Groups Respecting Dependencies",
-            "done": false
-          },
-          {
-            "id": "t_460",
-            "title": "Loud and Rich",
-            "done": false
-          },
-          {
-            "id": "t_461",
-            "title": "Find Eventual Safe States",
-            "done": false
-          },
-          {
-            "id": "t_462",
-            "title": "Minimum Height Trees",
-            "done": false
-          },
-          {
-            "id": "t_463",
-            "title": "Longest Increasing Path in a Matrix",
-            "done": false
-          },
-          {
-            "id": "t_464",
-            "title": "Find All Possible Recipes from Given Supplies",
-            "done": false
-          },
-          {
-            "id": "t_465",
-            "title": "Maximum Employees to Be Invited to a Meeting",
-            "done": false
-          }
-        ]
-      },
-      {
-        "id": "c_26",
-        "title": "Shortest Path Algorithms",
-        "topics": [
-          {
-            "id": "t_466",
-            "title": "Network Delay Time",
-            "done": false
-          },
-          {
-            "id": "t_467",
-            "title": "Path With Minimum Effort",
-            "done": false
-          },
-          {
-            "id": "t_468",
-            "title": "Swim in Rising Water",
-            "done": false
-          },
-          {
-            "id": "t_469",
-            "title": "Cheapest Flights Within K Stops",
-            "done": false
-          },
-          {
-            "id": "t_470",
-            "title": "Shortest Path in Binary Matrix",
-            "done": false
-          },
-          {
-            "id": "t_471",
-            "title": "Open the Lock",
-            "done": false
-          },
-          {
-            "id": "t_472",
-            "title": "Minimum Genetic Mutation",
-            "done": false
-          },
-          {
-            "id": "t_473",
-            "title": "Bus Routes",
-            "done": false
-          },
-          {
-            "id": "t_474",
-            "title": "Minimum Cost to Make at Least One Valid Path in a Grid",
-            "done": false
-          },
-          {
-            "id": "t_475",
-            "title": "Path With Maximum Probability",
-            "done": false
-          },
-          {
-            "id": "t_476",
-            "title": "The Maze II",
-            "done": false
-          },
-          {
-            "id": "t_477",
-            "title": "The Maze III",
-            "done": false
-          },
-          {
-            "id": "t_478",
-            "title": "Find the City With the Smallest Number of Neighbors at a Threshold Distance",
-            "done": false
-          },
-          {
-            "id": "t_479",
-            "title": "Reachable Nodes In Subdivided Graph",
-            "done": false
-          },
-          {
-            "id": "t_480",
-            "title": "Shortest Distance from All Buildings",
-            "done": false
-          },
-          {
-            "id": "t_481",
-            "title": "Freedom Trail",
-            "done": false
-          },
-          {
-            "id": "t_482",
-            "title": "Minimum Obstacle Removal to Reach Corner",
-            "done": false
-          },
-          {
-            "id": "t_483",
-            "title": "Minimum Cost to Reach Destination in Time",
-            "done": false
-          },
-          {
-            "id": "t_484",
-            "title": "Second Minimum Time to Reach Destination",
-            "done": false
-          },
-          {
-            "id": "t_485",
-            "title": "Number of Ways to Arrive at Destination",
-            "done": false
-          }
-        ]
-      },
-      {
-        "id": "c_27",
-        "title": "Minimum Spanning Tree",
-        "topics": [
-          {
-            "id": "t_486",
-            "title": "Min Cost to Connect All Points",
-            "done": false
-          },
-          {
-            "id": "t_487",
-            "title": "Connecting Cities With Minimum Cost",
-            "done": false
-          },
-          {
-            "id": "t_488",
-            "title": "Optimize Water Distribution in a Village",
-            "done": false
-          },
-          {
-            "id": "t_489",
-            "title": "Find Critical and Pseudo-Critical Edges in Minimum Spanning Tree",
-            "done": false
-          },
-          {
-            "id": "t_490",
-            "title": "Earliest Moment When Everyone Become Friends",
-            "done": false
-          },
-          {
-            "id": "t_491",
-            "title": "Min Cost to Supply Water",
-            "done": false
-          },
-          {
-            "id": "t_492",
-            "title": "Path With Minimum Effort",
-            "done": false
-          },
-          {
-            "id": "t_493",
-            "title": "Checking Existence of Edge Length Limited Paths",
-            "done": false
-          },
-          {
-            "id": "t_494",
-            "title": "Remove Max Number of Edges to Keep Graph Fully Traversable",
-            "done": false
-          },
-          {
-            "id": "t_495",
-            "title": "Number of Good Paths",
-            "done": false
-          }
-        ]
-      },
-      {
-        "id": "c_28",
-        "title": "Segment Tree",
-        "topics": [
-          {
-            "id": "t_496",
-            "title": "Range Sum Query - Mutable",
-            "done": false
-          },
-          {
-            "id": "t_497",
-            "title": "Range Minimum Query",
-            "done": false
-          },
-          {
-            "id": "t_498",
-            "title": "Range Maximum Query",
-            "done": false
-          },
-          {
-            "id": "t_499",
-            "title": "Count of Smaller Numbers After Self",
-            "done": false
-          },
-          {
-            "id": "t_500",
-            "title": "The Skyline Problem",
-            "done": false
-          },
-          {
-            "id": "t_501",
-            "title": "My Calendar I",
-            "done": false
-          },
-          {
-            "id": "t_502",
-            "title": "My Calendar II",
-            "done": false
-          },
-          {
-            "id": "t_503",
-            "title": "My Calendar III",
-            "done": false
-          },
-          {
-            "id": "t_504",
-            "title": "Falling Squares",
-            "done": false
-          },
-          {
-            "id": "t_505",
-            "title": "Longest Increasing Subsequence II",
-            "done": false
-          },
-          {
-            "id": "t_506",
-            "title": "Handling Sum Queries After Update",
-            "done": false
-          },
-          {
-            "id": "t_507",
-            "title": "Range Module",
-            "done": false
-          },
-          {
-            "id": "t_508",
-            "title": "Reverse Pairs",
-            "done": false
-          },
-          {
-            "id": "t_509",
-            "title": "Count of Range Sum",
-            "done": false
-          },
-          {
-            "id": "t_510",
-            "title": "Create Sorted Array through Instructions",
-            "done": false
-          }
-        ]
-      },
-      {
-        "id": "c_29",
-        "title": "Fenwick Tree (Binary Indexed Tree)",
-        "topics": [
-          {
-            "id": "t_511",
-            "title": "Range Sum Query - Mutable",
-            "done": false
-          },
-          {
-            "id": "t_512",
-            "title": "Count of Smaller Numbers After Self",
-            "done": false
-          },
-          {
-            "id": "t_513",
-            "title": "Reverse Pairs",
-            "done": false
-          },
-          {
-            "id": "t_514",
-            "title": "Count of Range Sum",
-            "done": false
-          },
-          {
-            "id": "t_515",
-            "title": "Queries on a Permutation With Key",
-            "done": false
-          },
-          {
-            "id": "t_516",
-            "title": "Create Sorted Array through Instructions",
-            "done": false
-          },
-          {
-            "id": "t_517",
-            "title": "Longest Increasing Subsequence",
-            "done": false
-          },
-          {
-            "id": "t_518",
-            "title": "Number of Pairs Satisfying Inequality",
-            "done": false
-          },
-          {
-            "id": "t_519",
-            "title": "Count of Smaller Numbers After Self II",
-            "done": false
-          },
-          {
-            "id": "t_520",
-            "title": "Dynamic Prefix Sum Queries",
-            "done": false
-          }
-        ]
-      }
-    ]
-  }
+    }
 ]
